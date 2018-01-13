@@ -46,17 +46,74 @@
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">Gerakan</string>
   <!-- Device gestures -->
+  <string name="device_gestures_title">Gestur perangkat</string>
+  <string name="device_gestures_summary">Mengatur gestur perangkat</string>
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">Tampilan ambien</string>
+  <string name="ambient_display_manage_summary">Mengatur gerakan sekitar tampilan</string>
   <!-- Fingerprint gestures -->
+  <string name="fingerprint_gestures_title">Gestur sidik jari</string>
+  <string name="fingerprint_gestures_summary">Menggunakan gestur sidik jari</string>
+  <string name="fingerprint_gestures_manage_summary">Mengatur gestur sidik jari</string>
+  <string name="fingerprint_actions_screenon">Tindakan saat layar hidup</string>
+  <string name="fingerprint_tap_title">Ketuk sekali</string>
+  <string name="fingerprint_tap_dlg_title">Pilih tindakan untuk sekali ketuk</string>
+  <string name="fingerprint_double_tap_title">Dua kali ketuk</string>
+  <string name="fingerprint_double_tap_dlg_title">Pilih tindakan untuk dua kali ketuk</string>
+  <string name="fingerprint_long_tap_title">Ketuk yang lama</string>
+  <string name="fingerprint_long_tap_dlg_title">Pilih tindakan untuk ketuk yang lama</string>
+  <string name="fingerprint_swipe_left_title">Geser ke kiri</string>
+  <string name="fingerprint_swipe_left_dlg_title">Pilih tindakan saat menggeser ke kiri</string>
+  <string name="fingerprint_swipe_right_title">Geser ke kanan</string>
+  <string name="fingerprint_swipe_right_dlg_title">Pilih tindakan saat menggeser ke kanan</string>
   <!-- Fingerprint gestures screen off -->
+  <string name="fingerprint_gestures_screenoff_title">Gestur sidik jari ketika layar mati</string>
+  <string name="fingerprint_gestures_screenoff_summary">Gunakan gestur sidik jari ketika layar mati.\n\nFingerprint unlocking harus dimatikan untuk menggunakan fitur ini.</string>
+  <string name="fingerprint_actions_screenoff">Tindakan saat layar mati</string>
   <!-- Actions -->
   <string name="action_none">Nonaktifkan</string>
+  <string name="action_home">Home</string>
+  <string name="action_power">Layar hidup/mati</string>
+  <string name="action_wake">Bangun</string>
+  <string name="action_back">Kembali</string>
+  <string name="action_recents">Baru saja</string>
+  <string name="action_last_app">Aplikasi terakhir</string>
+  <string name="action_volume_up">Volume naik</string>
+  <string name="action_volume_down">Volume turun</string>
+  <string name="action_voice_assistant">Asisten suara</string>
+  <string name="action_play_pause">Putar/jeda</string>
+  <string name="action_previous_track">Track sebelumnya</string>
+  <string name="action_next_track">Track selanjutnya</string>
+  <string name="action_flashlight">Senter hidup/mati</string>
+  <string name="action_camera">Buka kamera</string>
+  <string name="action_screenshot">Mengambil screenshot</string>
+  <string name="action_browser">Membuka browser</string>
+  <string name="action_dialer">Membuka panggilan telepon</string>
+  <string name="action_email">Buka aplikasi email</string>
+  <string name="action_messages">Buka aplikasi pesan</string>
+  <string name="action_pip">Gambar dalam Picture mode</string>
   <!-- Screen off gestures -->
+  <string name="screen_off_gestures_title">Mematikan gestur layar</string>
+  <string name="screen_off_gestures_manage_summary">Mengatur gestur ketika layar mati</string>
+  <string name="screen_off_gestures_swipe_left_title">Geser ke kiri</string>
+  <string name="screen_off_gestures_swipe_left_dlg_title">Pilih tindakan saat menggeser ke kiri</string>
+  <string name="screen_off_gestures_swipe_right_title">Geser ke kanan</string>
+  <string name="screen_off_gestures_swipe_right_dlg_title">Pilih tindakan saat menggeser ke kanan</string>
+  <string name="screen_off_gestures_swipe_up_title">Geser ke atas</string>
+  <string name="screen_off_gestures_swipe_up_dlg_title">Pilih tindakan saat menggeser ke atas</string>
+  <string name="screen_off_gestures_swipe_down_title">Geser ke bawah</string>
+  <string name="screen_off_gestures_swipe_down_dlg_title">Pilih tindakan saat menggeser ke bawah</string>
   <!-- Double tap to wake -->
+  <string name="tap_to_wake">Ketuk untuk bangun</string>
+  <string name="tap_to_wake_summary">Sentuh dua kali pada layar untuk menghidupkan perangkat</string>
   <!-- Screen off gestures haptic feedback -->
+  <string name="haptic_feedback">Haptic feedback</string>
+  <string name="haptic_feedback_summary">Bergetar ketika gestur touchscreen terdeteksi</string>
   <!-- Pip -->
+  <string name="app_does_not_support_pip">Aplikasi tidak mendukung gambar dalam picture mode.</string>
   <!-- Proximity sensor -->
+  <string name="allow_proximity_sensor_title">Mengizinkan sensor jarak</string>
+  <string name="allow_proximity_sensor_summary">Periksa sensor jarak sebelum melakukan tindakan</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
 </resources>

@@ -55,6 +55,7 @@
   <string name="fingerprint_gestures_title">Жесты сканера отпечатков пальцев</string>
   <string name="fingerprint_gestures_summary">Использовать жесты сканера отпечатков пальцев</string>
   <string name="fingerprint_gestures_manage_summary">Управление жестами сканера отпечатков пальцев</string>
+  <string name="fingerprint_actions_screenon">Действия при вкл. экране</string>
   <string name="fingerprint_tap_title">Одиночный тап</string>
   <string name="fingerprint_tap_dlg_title">Выбрать действие для одиночного тапа</string>
   <string name="fingerprint_double_tap_title">Двойной тап</string>
@@ -62,15 +63,57 @@
   <string name="fingerprint_long_tap_title">Долгий тап</string>
   <string name="fingerprint_long_tap_dlg_title">Выбрать действие для долгого тапа</string>
   <string name="fingerprint_swipe_left_title">Свайп влево</string>
+  <string name="fingerprint_swipe_left_dlg_title">Выбрать действие для свайпа влево</string>
   <string name="fingerprint_swipe_right_title">Свайп вправо</string>
+  <string name="fingerprint_swipe_right_dlg_title">Выбрать действие для свайпа вправо</string>
   <!-- Fingerprint gestures screen off -->
+  <string name="fingerprint_gestures_screenoff_title">Жесты сканера отпечатков при выключенном экране</string>
+  <string name="fingerprint_gestures_screenoff_summary">Использовать жесты сканера отпечатков при выкл. экране\n\nРазблокировка экрана по отпечатку пальца должна быть отключена.</string>
+  <string name="fingerprint_actions_screenoff">Действия при выкл. экране</string>
   <!-- Actions -->
   <string name="action_none">Отключить</string>
+  <string name="action_home">Домой</string>
+  <string name="action_power">Экран вкл/выкл</string>
+  <string name="action_wake">Пробуждение</string>
+  <string name="action_back">Назад</string>
+  <string name="action_recents">Меню недавних приложений</string>
+  <string name="action_last_app">Последнее приложение</string>
+  <string name="action_volume_up">Увеличить громкость</string>
+  <string name="action_volume_down">Уменьшить громкость</string>
+  <string name="action_voice_assistant">Голосовой помощник</string>
+  <string name="action_play_pause">Воспроизведение/пауза</string>
+  <string name="action_previous_track">Предыдущий трек</string>
+  <string name="action_next_track">Следующий трек</string>
+  <string name="action_flashlight">Фонарик вкл/выкл</string>
+  <string name="action_camera">Открыть камеру</string>
+  <string name="action_screenshot">Скриншот</string>
+  <string name="action_browser">Открыть браузер</string>
+  <string name="action_dialer">Открыть Телефон</string>
+  <string name="action_email">Открыть приложение «Почта»</string>
+  <string name="action_messages">Открыть SMS-приложение</string>
+  <string name="action_pip">Картинка в картинке</string>
   <!-- Screen off gestures -->
+  <string name="screen_off_gestures_title">Жесты при выключенном экране</string>
+  <string name="screen_off_gestures_manage_summary">Управление жестами, при выключенном экране</string>
+  <string name="screen_off_gestures_swipe_left_title">Свайп влево</string>
+  <string name="screen_off_gestures_swipe_left_dlg_title">Выбрать действие для свайпа влево</string>
+  <string name="screen_off_gestures_swipe_right_title">Свайп вправо</string>
+  <string name="screen_off_gestures_swipe_right_dlg_title">Выбрать действие для свайпа вправо</string>
+  <string name="screen_off_gestures_swipe_up_title">Свайп вверх</string>
+  <string name="screen_off_gestures_swipe_up_dlg_title">Выбрать действие для свайпа вверх</string>
+  <string name="screen_off_gestures_swipe_down_title">Свайп вниз</string>
+  <string name="screen_off_gestures_swipe_down_dlg_title">Выбрать действие для свайпа вниз</string>
   <!-- Double tap to wake -->
+  <string name="tap_to_wake">Включение нажатием</string>
+  <string name="tap_to_wake_summary">Дважды нажмите в любом месте экрана, чтобы включить устройство</string>
   <!-- Screen off gestures haptic feedback -->
+  <string name="haptic_feedback">Виброотклик</string>
+  <string name="haptic_feedback_summary">Вибрировать при распознавании жеста</string>
   <!-- Pip -->
+  <string name="app_does_not_support_pip">Приложение не поддерживает режим картинка в картинке.</string>
   <!-- Proximity sensor -->
+  <string name="allow_proximity_sensor_title">Включить датчик приближения</string>
+  <string name="allow_proximity_sensor_summary">Проверить датчик приближения перед выполнением действия</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
 </resources>

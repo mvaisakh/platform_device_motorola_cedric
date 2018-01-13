@@ -23,12 +23,20 @@
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_off">बंद</string>
   <!-- Camera gesture -->
+  <string name="camera_gesture_title">डबल-ट्विस्ट</string>
+  <string name="camera_gesture_summary">डबल ट्विस्ट इशारे का उपयोग करते समय कैमरा खोले</string>
   <!-- Chop-chop gesture -->
+  <string name="chop_chop_gesture_title">झटपट</string>
   <!-- Hand wave silencer gesture -->
   <!-- Hand wave gesture -->
+  <string name="hand_wave_gesture_title">हाथ लहराना</string>
+  <string name="hand_wave_gesture_summary">स्क्रीन के उपर हाथ फिरने पर सूचनाए दिखाए</string>
   <!-- Flip to mute gesture -->
+  <string name="flip_to_mute_title">परेशान न करें के लिए पलटे</string>
   <!-- Lift to silence gesture -->
+  <string name="lift_to_silence_title">रिंग को रोकने के लिए उठाओ</string>
   <!-- Pick-up gesture -->
+  <string name="pick_up_gesture_title">उठाना</string>
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">इशारे</string>
   <!-- Device gestures -->

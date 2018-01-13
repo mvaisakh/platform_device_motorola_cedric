@@ -46,13 +46,42 @@
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">Bevægelser</string>
   <!-- Device gestures -->
+  <string name="device_gestures_title">Håndbevægelser</string>
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">Inaktivitetsvisning</string>
   <!-- Fingerprint gestures -->
+  <string name="fingerprint_tap_title">Enkelt tryk</string>
+  <string name="fingerprint_double_tap_title">Dobbelt tryk</string>
+  <string name="fingerprint_swipe_left_title">Swipe til venstre</string>
+  <string name="fingerprint_swipe_right_title">Swipe til højre</string>
   <!-- Fingerprint gestures screen off -->
   <!-- Actions -->
   <string name="action_none">Slå fra</string>
+  <string name="action_home">Hjem</string>
+  <string name="action_power">Skærm til/fra</string>
+  <string name="action_wake">Vågn</string>
+  <string name="action_back">Tilbage</string>
+  <string name="action_recents">Seneste</string>
+  <string name="action_last_app">Seneste app</string>
+  <string name="action_volume_up">Lydstyrke op</string>
+  <string name="action_volume_down">Lydstyrke ned</string>
+  <string name="action_voice_assistant">Stemmeassistent</string>
+  <string name="action_play_pause">Afspil/pause</string>
+  <string name="action_previous_track">Forrige nummer</string>
+  <string name="action_next_track">Næste nummer</string>
+  <string name="action_flashlight">Lommelygte til/fra</string>
+  <string name="action_camera">Åbn kamera</string>
+  <string name="action_screenshot">Tag Skærmbillede</string>
+  <string name="action_browser">Åbn browseren</string>
+  <string name="action_dialer">Åbn Opkald</string>
+  <string name="action_email">Åben email app</string>
+  <string name="action_messages">Åben besked app</string>
+  <string name="action_pip">Billede-i-billede mode</string>
   <!-- Screen off gestures -->
+  <string name="screen_off_gestures_swipe_left_title">Swipe til venstre</string>
+  <string name="screen_off_gestures_swipe_right_title">Swipe til højre</string>
+  <string name="screen_off_gestures_swipe_up_title">Swipe op</string>
+  <string name="screen_off_gestures_swipe_down_title">Swipe ned</string>
   <!-- Double tap to wake -->
   <!-- Screen off gestures haptic feedback -->
   <!-- Pip -->

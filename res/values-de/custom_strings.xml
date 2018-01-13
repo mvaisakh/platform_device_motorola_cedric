@@ -46,17 +46,74 @@
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">Gesten</string>
   <!-- Device gestures -->
+  <string name="device_gestures_title">Wischgesten</string>
+  <string name="device_gestures_summary">Gesten verwalten</string>
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">Ambiente Schierm</string>
+  <string name="ambient_display_manage_summary">Inaktivitätsbildschirm Einstellungen</string>
   <!-- Fingerprint gestures -->
+  <string name="fingerprint_gestures_title">Fingerabdruck Geste</string>
+  <string name="fingerprint_gestures_summary">Fingerabdruck-Gesten</string>
+  <string name="fingerprint_gestures_manage_summary">Fingerabdrücke verwalten</string>
+  <string name="fingerprint_actions_screenon">Bei aktivem Bildschirm</string>
+  <string name="fingerprint_tap_title">Einfaches Antippen</string>
+  <string name="fingerprint_tap_dlg_title">Wählen Sie Aktion für einfaches Tippen</string>
+  <string name="fingerprint_double_tap_title">Doppeltes Tippen</string>
+  <string name="fingerprint_double_tap_dlg_title">Wählen Sie Aktion für doppeltes Tippen</string>
+  <string name="fingerprint_long_tap_title">Lange drücken</string>
+  <string name="fingerprint_long_tap_dlg_title">Wählen Sie Aktion für langes Tippen</string>
+  <string name="fingerprint_swipe_left_title">Nach links wischen</string>
+  <string name="fingerprint_swipe_left_dlg_title">Wählen Sie Aktion für streichen Sie nach links</string>
+  <string name="fingerprint_swipe_right_title">nach rechts wischen</string>
+  <string name="fingerprint_swipe_right_dlg_title">Wählen Sie Aktion für streichen Sie nach rechts</string>
   <!-- Fingerprint gestures screen off -->
+  <string name="fingerprint_gestures_screenoff_title">Fingerabdruck-Gesten bei abgeschaltetem Bildschirm</string>
+  <string name="fingerprint_gestures_screenoff_summary">Verwenden Sie Fingerabdruck Gesten, wenn Bildschirm entsperrt.\n\nFingerabdruck muss deaktiviert werden, um diese Funktion zu nutzen.</string>
+  <string name="fingerprint_actions_screenoff">Optionen bei ausgeschalteten Bildschirm</string>
   <!-- Actions -->
   <string name="action_none">Desaktivéieren</string>
+  <string name="action_home">Startseite</string>
+  <string name="action_power">Bildschirm ein-/ausschalten</string>
+  <string name="action_wake">Aufwecken</string>
+  <string name="action_back">Zurück</string>
+  <string name="action_recents">Anwendungsverlauf</string>
+  <string name="action_last_app">Letzte Anwendung</string>
+  <string name="action_volume_up">Lauter</string>
+  <string name="action_volume_down">Leiser</string>
+  <string name="action_voice_assistant">Sprachassistent</string>
+  <string name="action_play_pause">Wiedergabe/Pause</string>
+  <string name="action_previous_track">Vorheriger Titel</string>
+  <string name="action_next_track">Nächster Titel</string>
+  <string name="action_flashlight">Taschenlampe ein/aus</string>
+  <string name="action_camera">Kamera öffnen</string>
+  <string name="action_screenshot">Screenshot aufnehmen</string>
+  <string name="action_browser">Browser öffnen</string>
+  <string name="action_dialer">Telefon-App öffnen</string>
+  <string name="action_email">E-Mail-App öffnen</string>
+  <string name="action_messages">Öffnen von Nachrichten-app</string>
+  <string name="action_pip">Bild-in-Bild-Modus</string>
   <!-- Screen off gestures -->
+  <string name="screen_off_gestures_title">Bildschirm mit Gesten aussschalten</string>
+  <string name="screen_off_gestures_manage_summary">Gesten verwalten, wenn der Bildschirm ausgeschaltet ist</string>
+  <string name="screen_off_gestures_swipe_left_title">Nach links wischen</string>
+  <string name="screen_off_gestures_swipe_left_dlg_title">Wählen Sie Aktion für Streichen Sie nach links</string>
+  <string name="screen_off_gestures_swipe_right_title">Nach rechts wischen</string>
+  <string name="screen_off_gestures_swipe_right_dlg_title">Wählen Sie Aktion für Streichen Sie nach rechts</string>
+  <string name="screen_off_gestures_swipe_up_title">Nach oben wischen</string>
+  <string name="screen_off_gestures_swipe_up_dlg_title">Wählen Sie Aktion für Streichen Sie nach oben</string>
+  <string name="screen_off_gestures_swipe_down_title">Nach unten wischen</string>
+  <string name="screen_off_gestures_swipe_down_dlg_title">Wählen Sie Aktion für Streichen nach unten</string>
   <!-- Double tap to wake -->
+  <string name="tap_to_wake">Zum Aktivieren tippen</string>
+  <string name="tap_to_wake_summary">Doppeltippen Sie auf den Bildschirm, um das Gerät zu aktivieren</string>
   <!-- Screen off gestures haptic feedback -->
+  <string name="haptic_feedback">Haptisches Feedback</string>
+  <string name="haptic_feedback_summary">Vibrieren wenn eine Bildschirmgeste erkannt wurde</string>
   <!-- Pip -->
+  <string name="app_does_not_support_pip">App wird den Bild-in-Bild-Modus nicht unterstützt.</string>
   <!-- Proximity sensor -->
+  <string name="allow_proximity_sensor_title">Näherungssensor aktivieren</string>
+  <string name="allow_proximity_sensor_summary">Überprüfen Sie den Näherungssensor, bevor Sie die Aktion ausführen</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
 </resources>
