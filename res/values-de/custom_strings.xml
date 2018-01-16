@@ -19,30 +19,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">An</string>
+  <string name="switch_bar_on">Ein</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_off">Aus</string>
   <!-- Camera gesture -->
-  <string name="camera_gesture_title">Duebel Dréiung</string>
-  <string name="camera_gesture_summary">Fotoapparat aktivéieren, wann de Gest \"Duebel Dréinung\" benotzt gëtt</string>
+  <string name="camera_gesture_title">Doppeldrehung</string>
+  <string name="camera_gesture_summary">Kamera starten bei Verwendung der Geste Doppeldrehung</string>
   <!-- Chop-chop gesture -->
   <string name="chop_chop_gesture_title">Hacken</string>
   <string name="chop_chop_gesture_summary">Taschenlampe mit der Hack-Geste ein-/ausschalten</string>
   <!-- Hand wave silencer gesture -->
-  <string name="hand_wave_silencer_title">Wénke fir roueg ze schalten</string>
-  <string name="hand_wave_silencer_summary">Erakommend Uriff roueg schalten duerch d\'Wénken iwwer de Schierm</string>
+  <string name="hand_wave_silencer_title">Winken zum Stummschalten</string>
+  <string name="hand_wave_silencer_summary">Eingehende Anrufe durch Winken über den Bildschirm stummschalten</string>
   <!-- Hand wave gesture -->
-  <string name="hand_wave_gesture_title">Wénken</string>
-  <string name="hand_wave_gesture_summary">Puls-Notifikatioune beim Wénken</string>
+  <string name="hand_wave_gesture_title">Winken</string>
+  <string name="hand_wave_gesture_summary">Benachrichtigungen kurz einblenden, wenn gewunken wird</string>
   <!-- Flip to mute gesture -->
   <string name="flip_to_mute_title">Umdrehen für \"Nicht Stören\"</string>
   <string name="flip_to_mute_summary">Das Telefon mit dem Display nach unten ablegen, um Benachrichtigungen und Anrufe stumm zu schalten</string>
   <!-- Lift to silence gesture -->
-  <string name="lift_to_silence_title">Aufheben, um das Klingeln zu beenden</string>
+  <string name="lift_to_silence_title">Abheben, um das Klingeln zu beenden</string>
   <string name="lift_to_silence_summary">Eingehende Anrufe durch das Aufheben des Telefons stummschalten. Funktioniert nur, wenn Ihr Telefon zuvor flach auflag</string>
   <!-- Pick-up gesture -->
-  <string name="pick_up_gesture_title">Ophiewen</string>
-  <string name="pick_up_gesture_summary">Notifikatioune beim Ophiewe kuerz uweisen</string>
+  <string name="pick_up_gesture_title">Abheben</string>
+  <string name="pick_up_gesture_summary">Benachrichtigungen kurz einblenden, wenn das Gerät aufgehoben wird</string>
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">Gesten</string>
   <!-- Device gestures -->
