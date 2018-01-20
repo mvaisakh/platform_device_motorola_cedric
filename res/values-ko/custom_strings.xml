@@ -46,6 +46,8 @@
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">제스처</string>
   <!-- Device gestures -->
+  <string name="device_gestures_title">기기 제스처</string>
+  <string name="device_gestures_summary">기기 제스처 관리</string>
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">절전 모드 자동 해제</string>
   <!-- Fingerprint gestures -->
