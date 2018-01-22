@@ -38,8 +38,23 @@
   <!-- Fingerprint gestures screen off -->
   <!-- Actions -->
   <string name="action_none">ನಿಷ್ಕ್ರಿಯ</string>
+  <string name="action_power">ಸ್ಕ್ರೀನ್ ಆನ್ / ಆಫ್</string>
+  <string name="action_volume_up">ಧ್ವನಿ/ಸದ್ದು ಹೆಚ್ಚಿಸು</string>
+  <string name="action_volume_down">ಧ್ವನಿ/ಸದ್ದು ತಗ್ಗಿಸು</string>
+  <string name="action_voice_assistant">ಧ್ವನಿ ಸಹಾಯಕ</string>
+  <string name="action_previous_track">ಹಿಂದಿನ ಹಾಡು</string>
+  <string name="action_next_track">ಮುಂದಿನ ಹಾಡು</string>
+  <string name="action_camera">ಕ್ಯಾಮೆರಾ ತೆಗೆ</string>
+  <string name="action_browser">ಬ್ರೌಸರ್ ತೆಗೆ</string>
   <!-- Screen off gestures -->
+  <string name="screen_off_gestures_swipe_right_title">ಬಲಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಿ</string>
+  <string name="screen_off_gestures_swipe_right_dlg_title">ಬಲಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಲು ಕ್ರಿಯೆಯಾನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+  <string name="screen_off_gestures_swipe_up_title">ಮೇಲಕ್ಕೆ ಎಳಿ</string>
+  <string name="screen_off_gestures_swipe_up_dlg_title">ಮೇಲಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಲು ಕ್ರಿಯೆಯಾನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+  <string name="screen_off_gestures_swipe_down_title">ಕೆಳಗೆ ಎಳಿ</string>
+  <string name="screen_off_gestures_swipe_down_dlg_title">ಕೆಳಗೆ ಸ್ವೈಪ್ ಮಾಡಲು ಕ್ರಿಯೆಯಾನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
   <!-- Double tap to wake -->
+  <string name="tap_to_wake">ಎಚ್ಚರಗೊಳಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
   <!-- Screen off gestures haptic feedback -->
   <!-- Pip -->
   <!-- Proximity sensor -->

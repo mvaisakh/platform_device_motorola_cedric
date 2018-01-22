@@ -46,9 +46,15 @@
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">Gebaren</string>
   <!-- Device gestures -->
+  <string name="device_gestures_title">Apparaatgebaren</string>
+  <string name="device_gestures_summary">Apparaatgebaren beheren</string>
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">Omgevingsdisplay</string>
+  <string name="ambient_display_manage_summary">Ambient Display gebaren beheren</string>
   <!-- Fingerprint gestures -->
+  <string name="fingerprint_gestures_title">Vingerafdrukgebaren</string>
+  <string name="fingerprint_gestures_summary">Vingerafdrukgebaren gebruiken</string>
+  <string name="fingerprint_gestures_manage_summary">Vingerafdrukgebaren beheren</string>
   <!-- Fingerprint gestures screen off -->
   <!-- Actions -->
   <string name="action_none">Uitschakelen</string>

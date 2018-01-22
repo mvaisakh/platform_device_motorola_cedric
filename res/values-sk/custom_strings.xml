@@ -47,12 +47,45 @@ položený na plocho</string>
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">Gestá</string>
   <!-- Device gestures -->
+  <string name="device_gestures_title">Gestá</string>
+  <string name="device_gestures_summary">Spravovať gestá</string>
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">Ambientné zobrazenie</string>
+  <string name="ambient_display_manage_summary">Spravovať gestá ambientného displeja</string>
   <!-- Fingerprint gestures -->
+  <string name="fingerprint_gestures_title">Gestá odtlačkov prstov</string>
+  <string name="fingerprint_gestures_summary">Použiť gestá odtlačkov prstov</string>
+  <string name="fingerprint_gestures_manage_summary">Spravovať gestá odtlačkov prstov</string>
+  <string name="fingerprint_actions_screenon">Akcie pri zapnutej obrazovke</string>
+  <string name="fingerprint_tap_title">Kliknutie</string>
+  <string name="fingerprint_tap_dlg_title">Vybrať akciu pri kliknutí</string>
+  <string name="fingerprint_double_tap_title">Dvojité poklepanie</string>
+  <string name="fingerprint_double_tap_dlg_title">Vybrať akciu pri dvojitom kliknutí</string>
+  <string name="fingerprint_long_tap_title">Dlhé stlačenie</string>
+  <string name="fingerprint_long_tap_dlg_title">Vybrať akciu pri podržaní</string>
+  <string name="fingerprint_swipe_left_title">Posunúť vľavo</string>
+  <string name="fingerprint_swipe_left_dlg_title">Vybrať akciu pri posunutí vľavo</string>
+  <string name="fingerprint_swipe_right_title">Posun doprava</string>
+  <string name="fingerprint_swipe_right_dlg_title">Vybrať akciu pri posunutí vpravo</string>
   <!-- Fingerprint gestures screen off -->
+  <string name="fingerprint_gestures_screenoff_title">Gestá odtlačkov prstov pri vypnutej obrazovke</string>
+  <string name="fingerprint_actions_screenoff">Akcie pri vypnutej obrazovke</string>
   <!-- Actions -->
   <string name="action_none">Zakázať</string>
+  <string name="action_home">Domov</string>
+  <string name="action_wake">Prebudiť</string>
+  <string name="action_back">Späť</string>
+  <string name="action_recents">Nedávne</string>
+  <string name="action_last_app">Posledná aplikácia</string>
+  <string name="action_volume_up">Zvýšiť hlasitosť</string>
+  <string name="action_volume_down">Znížiť hlasitosť</string>
+  <string name="action_voice_assistant">Hlasový asistent</string>
+  <string name="action_play_pause">Prehrať/pozastaviť</string>
+  <string name="action_previous_track">Predchádzajúca skladba</string>
+  <string name="action_next_track">Ďalšia skladba</string>
+  <string name="action_camera">Spustiť fotoaparát</string>
+  <string name="action_screenshot">Zachytiť snímku obrazovky</string>
+  <string name="action_browser">Otvoriť prehliadač</string>
   <!-- Screen off gestures -->
   <!-- Double tap to wake -->
   <!-- Screen off gestures haptic feedback -->

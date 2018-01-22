@@ -33,7 +33,7 @@
   <string name="hand_wave_silencer_summary">Elinizi ekranın üstünde sallayarak gelen aramaları sessize alın</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">El sallama</string>
-  <string name="hand_wave_gesture_summary">El sallayınca bildirimleri aç</string>
+  <string name="hand_wave_gesture_summary">El sallayınca bildirimleri at</string>
   <!-- Flip to mute gesture -->
   <string name="flip_to_mute_title">Rahatsız Etmeyin Modu için döndür</string>
   <string name="flip_to_mute_summary">Bildirimleri ve aramaları sessize almak için telefonun ön yüzünü ters çevirin</string>
@@ -71,7 +71,7 @@
   <string name="fingerprint_gestures_screenoff_summary">Ekran kapalıyken parmak izi hareketlerini kullan.\n\nBu özelliği kullanmak için parmak izinin kilit açma özelliği devre dışı bırakılmalıdır.</string>
   <string name="fingerprint_actions_screenoff">Kapalı ekran etkinlikleri</string>
   <!-- Actions -->
-  <string name="action_none">Devre dışı</string>
+  <string name="action_none">Hiçbiri</string>
   <string name="action_home">Ana ekran</string>
   <string name="action_power">Ekranı aç/kapat</string>
   <string name="action_wake">Uyandır</string>

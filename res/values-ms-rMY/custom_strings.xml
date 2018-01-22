@@ -19,25 +19,51 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_on">Buka</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_off">Tutup</string>
   <!-- Camera gesture -->
+  <string name="camera_gesture_title">Dua putaran</string>
+  <string name="camera_gesture_summary">Buka kamera apabila gerakan dua putaran digunakan</string>
   <!-- Chop-chop gesture -->
+  <string name="chop_chop_gesture_title">Chop-chop</string>
+  <string name="chop_chop_gesture_summary">Togel lampu suluh apabila gerakan chop-chop digunakan</string>
   <!-- Hand wave silencer gesture -->
+  <string name="hand_wave_silencer_title">Lambai untuk senyap</string>
+  <string name="hand_wave_silencer_summary">Senyapkan panggilan yang datang dengan melambai tangan melepasi skrin</string>
   <!-- Hand wave gesture -->
+  <string name="hand_wave_gesture_title">Lambai tangan</string>
+  <string name="hand_wave_gesture_summary">Kelipkan notifikasi bila tangan dilambaikan</string>
   <!-- Flip to mute gesture -->
+  <string name="flip_to_mute_title">Pusing untuk Mod Jangan Ganggu</string>
+  <string name="flip_to_mute_summary">Alihkan telefon kebawah untuk senyapkan notifikasi dan panggilan</string>
   <!-- Lift to silence gesture -->
+  <string name="lift_to_silence_title">Ambil untuk senyapkan bunyi</string>
+  <string name="lift_to_silence_summary">Angkat telefon untuk senyapkan panggilan masuk. Hanya berfungsi bila telefon anda terbaring dari awal</string>
   <!-- Pick-up gesture -->
+  <string name="pick_up_gesture_title">Ambil</string>
+  <string name="pick_up_gesture_summary">Kelipkan notifikasi bila diangkat</string>
   <!-- Device gestures panel -->
+  <string name="screen_gestures_panel_title">Gerak isyarat</string>
   <!-- Device gestures -->
   <!-- Ambient display gestures -->
   <!-- Fingerprint gestures -->
   <!-- Fingerprint gestures screen off -->
   <!-- Actions -->
   <!-- Screen off gestures -->
+  <string name="screen_off_gestures_swipe_down_title">Leret ke bawah</string>
+  <string name="screen_off_gestures_swipe_down_dlg_title">Pilih tindakan untuk leret ke bawah</string>
   <!-- Double tap to wake -->
+  <string name="tap_to_wake">Tekan untuk bangun</string>
+  <string name="tap_to_wake_summary">Tekan skrin dua kali dimana-mana untuk bangunkan peranti</string>
   <!-- Screen off gestures haptic feedback -->
+  <string name="haptic_feedback">Haptic feedback</string>
+  <string name="haptic_feedback_summary">Bergetar apabila gerak isyarat skrin dikesan</string>
   <!-- Pip -->
+  <string name="app_does_not_support_pip">Aplikasi ini tidak menyokong mod picture-in-picture.</string>
   <!-- Proximity sensor -->
+  <string name="allow_proximity_sensor_title">Benarkan sensor pengesan jarak</string>
+  <string name="allow_proximity_sensor_summary">Pastikan sensor pengesan jarak sebelum melakukan tindakan</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
 </resources>
