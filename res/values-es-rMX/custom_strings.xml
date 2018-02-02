@@ -91,7 +91,6 @@
   <string name="action_dialer">Abrir teléfono</string>
   <string name="action_email">Abrir aplicación de correo electrónico</string>
   <string name="action_messages">Abrir aplicación de mensajes</string>
-  <string name="action_pip">Modo Picture-in-Picture</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">Gestos con pantalla apagada</string>
   <string name="screen_off_gestures_manage_summary">Administrar gestos cuando la pantalla está apagada</string>
@@ -109,8 +108,6 @@
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">Respuesta háptica</string>
   <string name="haptic_feedback_summary">Vibrar cuando se detecta un gesto táctil</string>
-  <!-- Pip -->
-  <string name="app_does_not_support_pip">La aplicación no soporta el modo Picture-in-Picture.</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">Activar sensor de proximidad</string>
   <string name="allow_proximity_sensor_summary">Comprobar el sensor de proximidad antes de realizar la acción</string>

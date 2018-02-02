@@ -91,7 +91,6 @@
   <string name="action_dialer">Открыть Телефон</string>
   <string name="action_email">Открыть приложение «Почта»</string>
   <string name="action_messages">Открыть SMS-приложение</string>
-  <string name="action_pip">Картинка в картинке</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">Жесты при выключенном экране</string>
   <string name="screen_off_gestures_manage_summary">Управление жестами, при выключенном экране</string>
@@ -109,8 +108,6 @@
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">Виброотклик</string>
   <string name="haptic_feedback_summary">Вибрировать при распознавании жеста</string>
-  <!-- Pip -->
-  <string name="app_does_not_support_pip">Приложение не поддерживает режим картинка в картинке.</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">Включить датчик приближения</string>
   <string name="allow_proximity_sensor_summary">Проверить датчик приближения перед выполнением действия</string>

@@ -91,7 +91,6 @@
   <string name="action_dialer">டயலரை திறக்கவும்</string>
   <string name="action_email">மின்னஞ்சல் பயன்பாட்டைத் திறக்கவும்</string>
   <string name="action_messages">செய்திகளின் பயன்பாட்டைத் திறக்கவும்</string>
-  <string name="action_pip">பிக்சர்-இன்-பிக்சர் மோட்</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">திரை ஆஃப் சைகைகள்</string>
   <string name="screen_off_gestures_manage_summary">திரை ஆஃப் ஆகும் போது சைகைகள் நிர்வகி</string>
@@ -109,8 +108,6 @@
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">தீண்டும் பின்னூட்டம்</string>
   <string name="haptic_feedback_summary">தொடுதிரை சைகை கண்டறியப்பட்டால் அதிர்வு</string>
-  <!-- Pip -->
-  <string name="app_does_not_support_pip">பயன்பாட்டை படம்-இல்-படம் முறையில் ஆதரிக்கவில்லை.</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">ப்ரோக்ஸிமிட்டி சென்சார் அனுமதி</string>
   <string name="allow_proximity_sensor_summary">செயலைச் செய்வதற்கு முன்னர் அலைபேசி சென்சார் சரிபார்க்கவும்</string>

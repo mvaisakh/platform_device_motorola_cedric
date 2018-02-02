@@ -91,7 +91,6 @@
   <string name="action_dialer">Telefon-App öffnen</string>
   <string name="action_email">E-Mail-App öffnen</string>
   <string name="action_messages">Nachrichten-App öffnen</string>
-  <string name="action_pip">Bild-in-Bild-Modus</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">»Bildschirm aus«-Gesten</string>
   <string name="screen_off_gestures_manage_summary">Gesten verwalten, wenn der Bildschirm ausgeschaltet ist</string>
@@ -109,8 +108,6 @@
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">Haptisches Feedback</string>
   <string name="haptic_feedback_summary">Vibrieren, wenn eine Bildschirmgeste erkannt wurde</string>
-  <!-- Pip -->
-  <string name="app_does_not_support_pip">App unterstützt den Bild-in-Bild-Modus nicht.</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">Näherungssensor aktivieren</string>
   <string name="allow_proximity_sensor_summary">Überprüfen Sie den Näherungssensor, bevor Sie die Aktion ausführen</string>

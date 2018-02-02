@@ -76,7 +76,6 @@
   <string name="action_dialer">Åbn Opkald</string>
   <string name="action_email">Åben email app</string>
   <string name="action_messages">Åben besked app</string>
-  <string name="action_pip">Billede-i-billede mode</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_swipe_left_title">Swipe til venstre</string>
   <string name="screen_off_gestures_swipe_right_title">Swipe til højre</string>
@@ -84,7 +83,6 @@
   <string name="screen_off_gestures_swipe_down_title">Swipe ned</string>
   <!-- Double tap to wake -->
   <!-- Screen off gestures haptic feedback -->
-  <!-- Pip -->
   <!-- Proximity sensor -->
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->

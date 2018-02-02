@@ -91,7 +91,6 @@
   <string name="action_dialer">Otwórz wybieranie numerów</string>
   <string name="action_email">Otwórz aplikację poczty</string>
   <string name="action_messages">Otwórz aplikację wiadomości</string>
-  <string name="action_pip">Tryb Picture-in-Picture</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">Gesty przy wyłączonym ekranie</string>
   <string name="screen_off_gestures_manage_summary">Zarządzaj gestami przy wyłączonym ekranie</string>
@@ -109,8 +108,6 @@
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">Wibracja przy dotknięciu</string>
   <string name="haptic_feedback_summary">Wibruj po wykryciu gestu ekranu dotykowego</string>
-  <!-- Pip -->
-  <string name="app_does_not_support_pip">Aplikacja nie obsługuje trybu picture-in-picture.</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">Włącz czujnik zbliżeniowy</string>
   <string name="allow_proximity_sensor_summary">Sprawdź czujnik zbliżeniowy, przed wykonaniem akcji</string>

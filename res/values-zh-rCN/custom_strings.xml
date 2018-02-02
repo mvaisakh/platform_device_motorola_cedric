@@ -29,13 +29,13 @@
   <string name="chop_chop_gesture_title">旋转摇动</string>
   <string name="chop_chop_gesture_summary">两次旋转摇动以切换手电筒</string>
   <!-- Hand wave silencer gesture -->
-  <string name="hand_wave_silencer_title">挥动以静音</string>
+  <string name="hand_wave_silencer_title">挥手静音</string>
   <string name="hand_wave_silencer_summary">来电时用手挥过屏幕以静音</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">挥手</string>
   <string name="hand_wave_gesture_summary">挥手时唤醒屏幕</string>
   <!-- Flip to mute gesture -->
-  <string name="flip_to_mute_title">翻转以请勿打扰</string>
+  <string name="flip_to_mute_title">翻转不打扰</string>
   <string name="flip_to_mute_summary">将手机朝下放置以静音通知和来电</string>
   <!-- Lift to silence gesture -->
   <string name="lift_to_silence_title">拿起后停止响铃</string>
@@ -91,26 +91,23 @@
   <string name="action_dialer">打开拨号器</string>
   <string name="action_email">打开电子邮件应用</string>
   <string name="action_messages">打开消息应用</string>
-  <string name="action_pip">画中画模式</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">熄屏手势</string>
   <string name="screen_off_gestures_manage_summary">管理息屏手势</string>
   <string name="screen_off_gestures_swipe_left_title">向左滑动</string>
-  <string name="screen_off_gestures_swipe_left_dlg_title">选择左滑动作</string>
+  <string name="screen_off_gestures_swipe_left_dlg_title">选择左滑行为</string>
   <string name="screen_off_gestures_swipe_right_title">向右滑动</string>
-  <string name="screen_off_gestures_swipe_right_dlg_title">选择右滑动作</string>
+  <string name="screen_off_gestures_swipe_right_dlg_title">选择右滑行为</string>
   <string name="screen_off_gestures_swipe_up_title">向上滑动</string>
-  <string name="screen_off_gestures_swipe_up_dlg_title">选择上滑动作</string>
+  <string name="screen_off_gestures_swipe_up_dlg_title">选择上滑行为</string>
   <string name="screen_off_gestures_swipe_down_title">向下滑动</string>
-  <string name="screen_off_gestures_swipe_down_dlg_title">选择下滑动作</string>
+  <string name="screen_off_gestures_swipe_down_dlg_title">选择下滑行为</string>
   <!-- Double tap to wake -->
-  <string name="tap_to_wake">点按以唤醒</string>
+  <string name="tap_to_wake">点击以唤醒</string>
   <string name="tap_to_wake_summary">双击屏幕唤醒设备</string>
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">触觉反馈</string>
   <string name="haptic_feedback_summary">当检测到触摸屏手势时振动</string>
-  <!-- Pip -->
-  <string name="app_does_not_support_pip">该应用程序不支持画中画</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">打开距离传感器</string>
   <string name="allow_proximity_sensor_summary">在执行操作前检查距离传感器</string>

@@ -89,7 +89,6 @@
   <string name="action_dialer">Abrir marcador</string>
   <string name="action_email">Abrir app de email</string>
   <string name="action_messages">Abrir app de mensagens</string>
-  <string name="action_pip">Modo PiP</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">Gestos com o ecrã desligado</string>
   <string name="screen_off_gestures_swipe_left_title">Deslizar para a esquerda</string>
@@ -106,7 +105,6 @@
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">Feedback tátil</string>
   <string name="haptic_feedback_summary">Vibrar quando é detetado um gesto no ecrã</string>
-  <!-- Pip -->
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">Permitir sensor de proximidade</string>
   <string name="allow_proximity_sensor_summary">Verificar o sensor de proximidade antes de executar a ação</string>

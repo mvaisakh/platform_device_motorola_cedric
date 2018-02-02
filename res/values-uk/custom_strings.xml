@@ -91,7 +91,6 @@
   <string name="action_dialer">Відкрити телефон</string>
   <string name="action_email">Відкрити поштову програму</string>
   <string name="action_messages">Відкрити повідомлення</string>
-  <string name="action_pip">Режим \"Picture-in-Picture\"</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">Жести при вимкненому екрані</string>
   <string name="screen_off_gestures_manage_summary">Керування жестами сканера відбитків при вимкненому екрані</string>
@@ -109,8 +108,6 @@
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">Вібровідгук</string>
   <string name="haptic_feedback_summary">Вібрація при виявленні жесту</string>
-  <!-- Pip -->
-  <string name="app_does_not_support_pip">Застосунок не підтримує режим \"picture-in-picture\".</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">Увімкнути датчик наближення</string>
   <string name="allow_proximity_sensor_summary">Перевірити датчик наближення перед виконанням дії</string>

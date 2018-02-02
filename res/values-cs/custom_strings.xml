@@ -91,7 +91,6 @@
   <string name="action_dialer">Spustit vytáčení</string>
   <string name="action_email">Otevřít emailový klient</string>
   <string name="action_messages">Otevřít aplikaci SMS</string>
-  <string name="action_pip">Režim obraz v obraze</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">Gesta při vypnuté obrazovce</string>
   <string name="screen_off_gestures_manage_summary">Spravovat gesta při vypnuté obrazovce</string>
@@ -109,8 +108,6 @@
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">Hmatová odezva</string>
   <string name="haptic_feedback_summary">Vibrovat při detekci gesta na obrazovce</string>
-  <!-- Pip -->
-  <string name="app_does_not_support_pip">Aplikace nepodporuje režim obraz v obraze.</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">Povolit senzor přiblížení</string>
   <string name="allow_proximity_sensor_summary">Zkontrolovat senzor přiblížení před provedením akce</string>

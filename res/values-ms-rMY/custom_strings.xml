@@ -46,8 +46,18 @@
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">Gerak isyarat</string>
   <!-- Device gestures -->
+  <string name="device_gestures_title">Gerak isyarat untuk peranti</string>
+  <string name="device_gestures_summary">Menguruskan gerak isyarat peranti</string>
   <!-- Ambient display gestures -->
+  <string name="ambient_display_title">Paparan ambient</string>
+  <string name="ambient_display_manage_summary">Menguruskan gerak isyarat paparan ambient</string>
   <!-- Fingerprint gestures -->
+  <string name="fingerprint_gestures_title">Gerak isyarat cap jari</string>
+  <string name="fingerprint_gestures_summary">Gunakan gerak isyarat cap jari</string>
+  <string name="fingerprint_gestures_manage_summary">Menguruskan gerak isyarat cap jari</string>
+  <string name="fingerprint_actions_screenon">Tindakan dengan skrin yang hidup</string>
+  <string name="fingerprint_tap_title">Ketuk sekali</string>
+  <string name="fingerprint_tap_dlg_title">Pilih tindakan untuk ketuk sekali</string>
   <!-- Fingerprint gestures screen off -->
   <!-- Actions -->
   <!-- Screen off gestures -->
@@ -59,8 +69,6 @@
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">Haptic feedback</string>
   <string name="haptic_feedback_summary">Bergetar apabila gerak isyarat skrin dikesan</string>
-  <!-- Pip -->
-  <string name="app_does_not_support_pip">Aplikasi ini tidak menyokong mod picture-in-picture.</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">Benarkan sensor pengesan jarak</string>
   <string name="allow_proximity_sensor_summary">Pastikan sensor pengesan jarak sebelum melakukan tindakan</string>

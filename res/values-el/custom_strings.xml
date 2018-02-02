@@ -68,12 +68,21 @@
   <string name="fingerprint_swipe_right_dlg_title">Επιλέξτε μια ενέργεια για σύρσιμο δεξιά</string>
   <!-- Fingerprint gestures screen off -->
   <string name="fingerprint_gestures_screenoff_title">Κινήσεις αισθητήρα δακτυλικού αποτυπώματος ενώ η οθόνη είναι ενεργή</string>
+  <string name="fingerprint_actions_screenoff">Ενέργειες με την οθόνη ανενεργή</string>
   <!-- Actions -->
   <string name="action_none">Ανενεργό</string>
+  <string name="action_volume_up">Αύξηση έντασης</string>
+  <string name="action_volume_down">Μείωση έντασης</string>
+  <string name="action_play_pause">Αναπαραγωγή/Παύση</string>
+  <string name="action_previous_track">Προηγούμενο κομμάτι</string>
+  <string name="action_next_track">Επόμενο κομμάτι</string>
+  <string name="action_screenshot">Λήψη στιγμιότυπου οθόνης</string>
+  <string name="action_browser">Άνοιγμα προγράμματος περιήγησης</string>
+  <string name="action_dialer">Άνοιγμα εφαρμογής κλήσεων</string>
+  <string name="action_email">Άνοιγμα εφαρμογής email</string>
   <!-- Screen off gestures -->
   <!-- Double tap to wake -->
   <!-- Screen off gestures haptic feedback -->
-  <!-- Pip -->
   <!-- Proximity sensor -->
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->

@@ -91,7 +91,6 @@
   <string name="action_dialer">డయలర్ తెరవండి</string>
   <string name="action_email">ఇమెయిల్ అనువర్తనం తెరువు</string>
   <string name="action_messages">సందేశాలు అనువర్తనం తెరువు</string>
-  <string name="action_pip">చిత్రం లో చిత్రం మోడ్</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">స్క్రీన్ ఆఫ్ సంజ్ఞలు</string>
   <string name="screen_off_gestures_manage_summary">స్క్రీన్ ఆఫ్ ఉన్నప్పుడు సంజ్ఞలను నిర్వహించండి</string>
@@ -109,8 +108,6 @@
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">హిప్టిక్ ఫీడ్బ్యాక్</string>
   <string name="haptic_feedback_summary">టచ్స్క్రీన్ సంజ్ఞ గుర్తించినప్పుడు వైబ్రేట్ చేయండి</string>
-  <!-- Pip -->
-  <string name="app_does_not_support_pip">అనువర్తనం చిత్రం-చిత్ర-చిత్ర రీతిలో మద్దతు ఇవ్వదు.</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">సన్నిహిత సెన్సార్ను అనుమతించండి</string>
   <string name="allow_proximity_sensor_summary">చర్యను అమలు చేయడానికి ముందు సన్నిహిత సెన్సార్ను తనిఖీ చేయండి</string>

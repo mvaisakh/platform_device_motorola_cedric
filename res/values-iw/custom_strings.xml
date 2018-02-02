@@ -91,7 +91,6 @@
   <string name="action_dialer">פתח את החייגן</string>
   <string name="action_email">פתח את הדואר האלקטרני</string>
   <string name="action_messages">פתח את אפליקציית ההודעות</string>
-  <string name="action_pip">מצב תמונה-בתוך-תמונה</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">מחוות מסך כבוי</string>
   <string name="screen_off_gestures_manage_summary">ניהול מחוות כאשר המסך כבוי</string>
@@ -109,8 +108,6 @@
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">משוב</string>
   <string name="haptic_feedback_summary">רטוט כאשר מזוהה מחווה</string>
-  <!-- Pip -->
-  <string name="app_does_not_support_pip">אפליקציה שאינה תומכת במצב תמונה-בתוך-תמונה.</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">אפשר חיישן קרבה</string>
   <string name="allow_proximity_sensor_summary">בדוק את חיישן הקרבה לפני ביצוע הפעולה</string>

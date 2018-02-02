@@ -91,11 +91,9 @@
   <string name="action_dialer">ડાયલર ચાલુ કરો</string>
   <string name="action_email">ઇમેઇલ ચાલુ કરો</string>
   <string name="action_messages">સંદેશ એપ ચાલુ કરો</string>
-  <string name="action_pip">ચિત્ર સ્થિતિમાં ચિત્ર</string>
   <!-- Screen off gestures -->
   <!-- Double tap to wake -->
   <!-- Screen off gestures haptic feedback -->
-  <!-- Pip -->
   <!-- Proximity sensor -->
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->

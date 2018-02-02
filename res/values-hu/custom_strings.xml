@@ -46,16 +46,46 @@
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">Kézmozdulatok</string>
   <!-- Device gestures -->
+  <string name="device_gestures_title">Készülék mozdulatok</string>
+  <string name="device_gestures_summary">Készülék mozdulatok beállítása</string>
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">Környezeti kijelző</string>
+  <string name="ambient_display_manage_summary">Környezeti kijelző mozdulatok beállítása</string>
   <!-- Fingerprint gestures -->
+  <string name="fingerprint_gestures_title">Ujjlenyomat mozdulatok</string>
+  <string name="fingerprint_gestures_summary">Ujjlenyomat mozdulatok használata</string>
+  <string name="fingerprint_tap_title">Egyszerű érintés</string>
+  <string name="fingerprint_double_tap_title">Dupla érintés</string>
+  <string name="fingerprint_long_tap_title">Hosszú érintés</string>
+  <string name="fingerprint_swipe_left_title">Húzás balra</string>
+  <string name="fingerprint_swipe_right_title">Húzás jobbra</string>
   <!-- Fingerprint gestures screen off -->
   <!-- Actions -->
   <string name="action_none">Letiltva</string>
+  <string name="action_home">Kezdőlap</string>
+  <string name="action_back">Vissza</string>
+  <string name="action_recents">Előzmények</string>
+  <string name="action_last_app">Utolsó alkalmazás</string>
+  <string name="action_volume_up">Hangerő fel</string>
+  <string name="action_volume_down">Hangerő le</string>
+  <string name="action_play_pause">Lejátszás/szünet</string>
+  <string name="action_previous_track">Előző szám</string>
+  <string name="action_next_track">Következő szám</string>
+  <string name="action_flashlight">Zseblámpa be/ki</string>
+  <string name="action_camera">Kamera megnyitása</string>
+  <string name="action_screenshot">Képernyőmentés</string>
+  <string name="action_browser">Böngésző megnyitása</string>
+  <string name="action_dialer">Tárcsázó megnyitása</string>
+  <string name="action_email">E-mail alkalmazás megnyitása</string>
+  <string name="action_messages">Üzenet alkalmazás megnyitása</string>
   <!-- Screen off gestures -->
+  <string name="screen_off_gestures_title">Képernyő kikapcsoló mozdulat</string>
+  <string name="screen_off_gestures_swipe_left_title">Húzás balra</string>
+  <string name="screen_off_gestures_swipe_right_title">Húzás jobbra</string>
+  <string name="screen_off_gestures_swipe_up_title">Húzás felfelé</string>
+  <string name="screen_off_gestures_swipe_down_title">Húzás lefelé</string>
   <!-- Double tap to wake -->
   <!-- Screen off gestures haptic feedback -->
-  <!-- Pip -->
   <!-- Proximity sensor -->
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->

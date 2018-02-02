@@ -27,7 +27,10 @@
   <string name="camera_gesture_summary">डबल ट्विस्ट इशारे का उपयोग करते समय कैमरा खोले</string>
   <!-- Chop-chop gesture -->
   <string name="chop_chop_gesture_title">झटपट</string>
+  <string name="chop_chop_gesture_summary">चॉक-चॉप जेस्चर का उपयोग करते समय टॉर्च जलाएं या बंद करें</string>
   <!-- Hand wave silencer gesture -->
+  <string name="hand_wave_silencer_title">शांत करने के लिए लहराए</string>
+  <string name="hand_wave_silencer_summary">आए हुए कॉल को शांत करने  लिए अपना हाथ प्रदर्शन  के ऊपर से ले जाए</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">हाथ लहराना</string>
   <string name="hand_wave_gesture_summary">स्क्रीन के उपर हाथ फिरने पर सूचनाए दिखाए</string>
@@ -43,14 +46,25 @@
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">इशारे</string>
   <!-- Device gestures -->
+  <string name="device_gestures_title">उपकरण इसारे</string>
+  <string name="device_gestures_summary">उपकरण के इशारों को संयोजित करे</string>
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">परिवेशी डिस्प्ले</string>
+  <string name="ambient_display_manage_summary">परिवेश प्रदर्शन इशारों का प्रबंधन करें</string>
   <!-- Fingerprint gestures -->
   <string name="fingerprint_gestures_title">फिंगरप्रिंट इशारे</string>
+  <string name="fingerprint_gestures_summary">अंगुली की छाप की इशारे</string>
+  <string name="fingerprint_gestures_manage_summary">अंगुली की छाप की इशारों का प्रबंधन क्रे</string>
+  <string name="fingerprint_tap_title">एक बार दबाए</string>
+  <string name="fingerprint_tap_dlg_title">एकल टैप के लिए कार्रवाई का चयन करें</string>
   <string name="fingerprint_double_tap_title">दो बार स्पर्श</string>
+  <string name="fingerprint_double_tap_dlg_title">दोहरा बार दबाने  के लिए कार्रवाई का चयन करें</string>
   <string name="fingerprint_long_tap_title">लंबा दबाएँ</string>
+  <string name="fingerprint_long_tap_dlg_title">देर तक दबाने के लिए चयन करे</string>
   <string name="fingerprint_swipe_left_title">बाएं स्वाइप करें</string>
+  <string name="fingerprint_swipe_left_dlg_title">बाये ओर करने पर लिए चयन करे</string>
   <string name="fingerprint_swipe_right_title">दाएं स्वाइप करें</string>
+  <string name="fingerprint_swipe_right_dlg_title">दाएं ओर करने पे लिए चयन करे</string>
   <!-- Fingerprint gestures screen off -->
   <!-- Actions -->
   <string name="action_none">कोई नहीं</string>
@@ -83,7 +97,6 @@
   <string name="screen_off_gestures_swipe_down_dlg_title">नीचे स्वाइप के लिए क्रिया का चयन करें</string>
   <!-- Double tap to wake -->
   <!-- Screen off gestures haptic feedback -->
-  <!-- Pip -->
   <!-- Proximity sensor -->
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->

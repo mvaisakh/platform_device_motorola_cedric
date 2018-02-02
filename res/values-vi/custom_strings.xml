@@ -50,6 +50,7 @@
   <string name="device_gestures_summary">Quản lý cử chỉ thiết bị</string>
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">Màn hình theo môi trường</string>
+  <string name="ambient_display_manage_summary">Quản lý cử chỉ môi trường xung quanh</string>
   <!-- Fingerprint gestures -->
   <string name="fingerprint_gestures_title">Cử chỉ vân tay</string>
   <string name="fingerprint_gestures_summary">Dùng cử chỉ vân tay</string>
@@ -90,7 +91,6 @@
   <string name="action_dialer">Mở trình quay số</string>
   <string name="action_email">Mở ứng dụng thư</string>
   <string name="action_messages">Mở ứng dụng nhắn tin</string>
-  <string name="action_pip">Chế độ hình ảnh trong hình ảnh</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">Cử chỉ khi màn hình tắt</string>
   <string name="screen_off_gestures_manage_summary">Quản lý cử chỉ khi màn hình đã tắt</string>
@@ -108,8 +108,6 @@
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">Cảm giác phản hồi</string>
   <string name="haptic_feedback_summary">Rung khi một cử chỉ màn hình cảm ứng được phát hiện</string>
-  <!-- Pip -->
-  <string name="app_does_not_support_pip">Ứng dụng không hỗ trợ chế độ hình ảnh trong hình ảnh.</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">Cho phép cảm biến tiệm cận</string>
   <string name="allow_proximity_sensor_summary">Kiểm tra cảm biến tiệm cận trước khi thực hiện hành động</string>

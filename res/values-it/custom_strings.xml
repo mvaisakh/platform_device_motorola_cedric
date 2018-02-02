@@ -30,19 +30,19 @@
   <string name="chop_chop_gesture_summary">Accendi la torcia quando utilizzi la gesture chop-chop</string>
   <!-- Hand wave silencer gesture -->
   <string name="hand_wave_silencer_title">Muovi la mano per silenziare</string>
-  <string name="hand_wave_silencer_summary">Silenza le chiamate in arrivo passando la mano sopra lo schermo</string>
+  <string name="hand_wave_silencer_summary">Silenzia le chiamate in arrivo passando la mano sopra lo schermo</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Movimento della mano</string>
   <string name="hand_wave_gesture_summary">Mostra notifiche al passaggio della mano</string>
   <!-- Flip to mute gesture -->
   <string name="flip_to_mute_title">Capovolgi per non disturbare</string>
-  <string name="flip_to_mute_summary">Metti a faccia in giù il telefono per silenziare le notifiche e chiamate</string>
+  <string name="flip_to_mute_summary">Metti a faccia in giù il telefono per silenziare le notifiche e le chiamate</string>
   <!-- Lift to silence gesture -->
   <string name="lift_to_silence_title">Prendi in mano per silenziare</string>
-  <string name="lift_to_silence_summary">Solleva il telefono per silenziare le chiamate in arrivo. Funziona solo se il telefono era su una superficie piatta</string>
+  <string name="lift_to_silence_summary">Solleva il telefono per silenziare le chiamate in arrivo. Funziona solo se il telefono è su una superficie piatta</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Sollevamento</string>
-  <string name="pick_up_gesture_summary">Mostra notifiche al sollavamento</string>
+  <string name="pick_up_gesture_summary">Mostra notifiche al sollevamento</string>
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">Gesture</string>
   <!-- Device gestures -->
@@ -85,13 +85,12 @@
   <string name="action_previous_track">Brano precedente</string>
   <string name="action_next_track">Brano successivo</string>
   <string name="action_flashlight">Torcia accendi/spegni</string>
-  <string name="action_camera">Apri fotocamera</string>
-  <string name="action_screenshot">Screenshot</string>
+  <string name="action_camera">Avvia fotocamera</string>
+  <string name="action_screenshot">Cattura schermata</string>
   <string name="action_browser">Apri browser</string>
   <string name="action_dialer">Apri applicazione predefinita telefonate</string>
   <string name="action_email">Apri applicazione predefinita email</string>
   <string name="action_messages">Apri applicazione predefinita messaggi</string>
-  <string name="action_pip">Modalità picture-in-picture</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">Gestisci con schermo spento</string>
   <string name="screen_off_gestures_manage_summary">Gestisci gesti con schermo spento</string>
@@ -109,8 +108,6 @@
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">Vibrazione al tocco</string>
   <string name="haptic_feedback_summary">Vibra quando viene rilevato un gesto</string>
-  <!-- Pip -->
-  <string name="app_does_not_support_pip">L\'applicazione non sopporta la modalità picture-in-picture.</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">Autorizza sensore di prossimità</string>
   <string name="allow_proximity_sensor_summary">Controllare il sensore di prossimità prima di eseguire l\'azione</string>

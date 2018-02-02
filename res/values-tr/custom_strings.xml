@@ -91,7 +91,6 @@
   <string name="action_dialer">Çeviriciyi aç</string>
   <string name="action_email">E-posta uygulamasını aç</string>
   <string name="action_messages">Mesaj uygulamasını aç</string>
-  <string name="action_pip">Resim içinde resim modu</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">Kapalı ekran hareketleri</string>
   <string name="screen_off_gestures_manage_summary">Kapalı ekran hareketlerini yönetin</string>
@@ -109,8 +108,6 @@
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">Dokunmatik geri bildirim</string>
   <string name="haptic_feedback_summary">Bir dokunmatik hareket algılandığında titre</string>
-  <!-- Pip -->
-  <string name="app_does_not_support_pip">Uygulama resmi içinde resim modunu desteklemiyor.</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">Yakınlık sensörüne izin ver</string>
   <string name="allow_proximity_sensor_summary">İşlemi gerçekleştirmeden önce yakınlık sensörünü kontrol eder</string>
