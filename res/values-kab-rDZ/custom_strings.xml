@@ -19,12 +19,23 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_on">Irmed</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_off">Yensa</string>
   <!-- Camera gesture -->
+  <string name="camera_gesture_title">Azlag uslig </string>
+  <string name="camera_gesture_summary">Ldi takamiratt s useqdec n wazlag uslig </string>
   <!-- Chop-chop gesture -->
+  <string name="chop_chop_gesture_title">Agzam uslig</string>
+  <string name="chop_chop_gesture_summary">Rmed/ssens taftilt s useqdec n wagzam uslig</string>
   <!-- Hand wave silencer gesture -->
+  <string name="hand_wave_silencer_title">Juǧǧit akken imesli ad yegzem</string>
+  <string name="hand_wave_silencer_summary">Gzem taṭenṭunt n usiwel s uslef n wagdil</string>
   <!-- Hand wave gesture -->
+  <string name="hand_wave_gesture_title">Asukku n ufus</string>
+  <string name="hand_wave_gesture_summary">Taftilt n ilɣa ad siblew ma tsukkeḍ afus</string>
   <!-- Flip to mute gesture -->
+  <string name="flip_to_mute_title">Uɣal iw sermed \"Ur cebbwel ara\"</string>
   <!-- Lift to silence gesture -->
   <!-- Pick-up gesture -->
   <!-- Device gestures panel -->
@@ -33,6 +44,8 @@
   <!-- Fingerprint gestures -->
   <!-- Fingerprint gestures screen off -->
   <!-- Actions -->
+  <string name="action_none">Ula yiwen</string>
+  <string name="action_home">Asebter agejdan</string>
   <!-- Screen off gestures -->
   <!-- Double tap to wake -->
   <!-- Screen off gestures haptic feedback -->

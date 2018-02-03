@@ -49,8 +49,8 @@
   <string name="device_gestures_title">Cihaz hareketleri</string>
   <string name="device_gestures_summary">Cihaz hareketlerini yönetin</string>
   <!-- Ambient display gestures -->
-  <string name="ambient_display_title">Bildirim ekranı</string>
-  <string name="ambient_display_manage_summary">Bildirim ekranı hareketlerini yönetin</string>
+  <string name="ambient_display_title">Ortam ekranı</string>
+  <string name="ambient_display_manage_summary">Ortam ekranı hareketlerini yönetin</string>
   <!-- Fingerprint gestures -->
   <string name="fingerprint_gestures_title">Parmak izi hareketleri</string>
   <string name="fingerprint_gestures_summary">Parmak izi hareketlerini kullanın</string>
