@@ -41,7 +41,7 @@
   <string name="lift_to_silence_title">Отключение звука</string>
   <string name="lift_to_silence_summary">Поднимите телефон, чтобы заглушить звук звонка. Это действие сработает, если телефон лежал горизонтально</string>
   <!-- Pick-up gesture -->
-  <string name="pick_up_gesture_title">Поднять</string>
+  <string name="pick_up_gesture_title">Поднятие телефона</string>
   <string name="pick_up_gesture_summary">Отображать уведомления при поднятии устройства</string>
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">Жесты</string>
@@ -49,19 +49,19 @@
   <string name="device_gestures_title">Жесты</string>
   <string name="device_gestures_summary">Управление жестами</string>
   <!-- Ambient display gestures -->
-  <string name="ambient_display_title">Индикация событий</string>
-  <string name="ambient_display_manage_summary">Управление жестами Ambient Display</string>
+  <string name="ambient_display_title">Активный экран</string>
+  <string name="ambient_display_manage_summary">Управление жестами активного экрана</string>
   <!-- Fingerprint gestures -->
   <string name="fingerprint_gestures_title">Жесты сканера отпечатков пальцев</string>
   <string name="fingerprint_gestures_summary">Использовать жесты сканера отпечатков пальцев</string>
   <string name="fingerprint_gestures_manage_summary">Управление жестами сканера отпечатков пальцев</string>
   <string name="fingerprint_actions_screenon">Действия при вкл. экране</string>
-  <string name="fingerprint_tap_title">Одиночный тап</string>
-  <string name="fingerprint_tap_dlg_title">Выбрать действие для одиночного тапа</string>
-  <string name="fingerprint_double_tap_title">Двойной тап</string>
-  <string name="fingerprint_double_tap_dlg_title">Выбрать действие для одиночного тапа</string>
-  <string name="fingerprint_long_tap_title">Долгий тап</string>
-  <string name="fingerprint_long_tap_dlg_title">Выбрать действие для долгого тапа</string>
+  <string name="fingerprint_tap_title">Одиночное нажатие</string>
+  <string name="fingerprint_tap_dlg_title">Выбрать действие для одиночного нажатия</string>
+  <string name="fingerprint_double_tap_title">Двойное нажатие</string>
+  <string name="fingerprint_double_tap_dlg_title">Выбрать действие для двойного нажатия</string>
+  <string name="fingerprint_long_tap_title">Длительное касание</string>
+  <string name="fingerprint_long_tap_dlg_title">Выбрать действие для длительного касания</string>
   <string name="fingerprint_swipe_left_title">Свайп влево</string>
   <string name="fingerprint_swipe_left_dlg_title">Выбрать действие для свайпа влево</string>
   <string name="fingerprint_swipe_right_title">Свайп вправо</string>
@@ -86,9 +86,9 @@
   <string name="action_next_track">Следующий трек</string>
   <string name="action_flashlight">Фонарик вкл/выкл</string>
   <string name="action_camera">Открыть камеру</string>
-  <string name="action_screenshot">Скриншот</string>
+  <string name="action_screenshot">Сделать снимок экрана</string>
   <string name="action_browser">Открыть браузер</string>
-  <string name="action_dialer">Открыть Телефон</string>
+  <string name="action_dialer">Открыть номеронабиратель</string>
   <string name="action_email">Открыть приложение «Почта»</string>
   <string name="action_messages">Открыть SMS-приложение</string>
   <!-- Screen off gestures -->
