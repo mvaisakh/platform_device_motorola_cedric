@@ -56,7 +56,7 @@
   <string name="fingerprint_gestures_summary">Dùng cử chỉ vân tay</string>
   <string name="fingerprint_gestures_manage_summary">Quản lý cử chỉ vân tay</string>
   <string name="fingerprint_actions_screenon">Hành động khi màn hình bật</string>
-  <string name="fingerprint_tap_title">Một chạm</string>
+  <string name="fingerprint_tap_title">Chạm 1 lần </string>
   <string name="fingerprint_tap_dlg_title">Chọn hành động cho một chạm</string>
   <string name="fingerprint_double_tap_title">Chạm đôi</string>
   <string name="fingerprint_double_tap_dlg_title">Chọn hành động cho chạm đôi</string>

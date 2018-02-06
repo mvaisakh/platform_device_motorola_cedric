@@ -55,11 +55,20 @@
   <string name="fingerprint_gestures_title">Vingerafdrukgebaren</string>
   <string name="fingerprint_gestures_summary">Vingerafdrukgebaren gebruiken</string>
   <string name="fingerprint_gestures_manage_summary">Vingerafdrukgebaren beheren</string>
+  <string name="fingerprint_tap_title">Enkele klik</string>
+  <string name="fingerprint_double_tap_title">Dubbel klikken</string>
+  <string name="fingerprint_long_tap_title">Lang aanraken</string>
   <!-- Fingerprint gestures screen off -->
   <!-- Actions -->
   <string name="action_none">Uitschakelen</string>
+  <string name="action_back">Terug</string>
+  <string name="action_camera">Open camera</string>
+  <string name="action_screenshot">Maak schermafdruk</string>
+  <string name="action_browser">Open Browser</string>
+  <string name="action_dialer">Telefoon-app openen</string>
   <!-- Screen off gestures -->
   <!-- Double tap to wake -->
+  <string name="tap_to_wake">Tikken om te activeren</string>
   <!-- Screen off gestures haptic feedback -->
   <!-- Proximity sensor -->
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
