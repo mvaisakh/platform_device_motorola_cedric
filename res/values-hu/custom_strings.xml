@@ -18,6 +18,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Title and summary -->
+  <string name="moto_actions_title">Moto-műveletek</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_on">Be</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -54,20 +56,33 @@
   <!-- Fingerprint gestures -->
   <string name="fingerprint_gestures_title">Ujjlenyomat mozdulatok</string>
   <string name="fingerprint_gestures_summary">Ujjlenyomat mozdulatok használata</string>
+  <string name="fingerprint_gestures_manage_summary">Ujjlenyomat-olvasó gesztusainak beállítása</string>
+  <string name="fingerprint_actions_screenon">Cselekvések bekapcsolt kijelzővel</string>
   <string name="fingerprint_tap_title">Egyszerű érintés</string>
+  <string name="fingerprint_tap_dlg_title">Művelet megadása egy koppintás esetén</string>
   <string name="fingerprint_double_tap_title">Dupla érintés</string>
+  <string name="fingerprint_double_tap_dlg_title">Művelet megadása két koppintás esetén</string>
   <string name="fingerprint_long_tap_title">Hosszú érintés</string>
+  <string name="fingerprint_long_tap_dlg_title">Művelet megadása hosszan tartó érintés esetén</string>
   <string name="fingerprint_swipe_left_title">Húzás balra</string>
+  <string name="fingerprint_swipe_left_dlg_title">Művelet megadása balrahúzáskor</string>
   <string name="fingerprint_swipe_right_title">Húzás jobbra</string>
+  <string name="fingerprint_swipe_right_dlg_title">Művelet megadása jobbrahúzáskor</string>
   <!-- Fingerprint gestures screen off -->
+  <string name="fingerprint_gestures_screenoff_title">Ujjlenyomat-gesztusok, mikor képernyő kikapcsolt</string>
+  <string name="fingerprint_gestures_screenoff_summary">Ujjlenyomat gesztusok használata, ha a képernyő ki van kapcsolva.\n\nUjjlenyomat feloldást ki kell kapcsolni a szolgáltatás használatához.</string>
+  <string name="fingerprint_actions_screenoff">Cselekvések kikapcsolt kijelzővel</string>
   <!-- Actions -->
   <string name="action_none">Letiltva</string>
   <string name="action_home">Kezdőlap</string>
+  <string name="action_power">Kijelző be/ki</string>
+  <string name="action_wake">Felébresztés</string>
   <string name="action_back">Vissza</string>
   <string name="action_recents">Előzmények</string>
   <string name="action_last_app">Utolsó alkalmazás</string>
   <string name="action_volume_up">Hangerő fel</string>
   <string name="action_volume_down">Hangerő le</string>
+  <string name="action_voice_assistant">Hangsegéd</string>
   <string name="action_play_pause">Lejátszás/szünet</string>
   <string name="action_previous_track">Előző szám</string>
   <string name="action_next_track">Következő szám</string>
@@ -80,13 +95,24 @@
   <string name="action_messages">Üzenet alkalmazás megnyitása</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">Képernyő kikapcsoló mozdulat</string>
+  <string name="screen_off_gestures_manage_summary">Gesztusok beállítása kikapcsolt kijelző esetén</string>
   <string name="screen_off_gestures_swipe_left_title">Húzás balra</string>
+  <string name="screen_off_gestures_swipe_left_dlg_title">Művelet megadása balrahúzáskor</string>
   <string name="screen_off_gestures_swipe_right_title">Húzás jobbra</string>
+  <string name="screen_off_gestures_swipe_right_dlg_title">Művelet megadása jobbrahúzáskor</string>
   <string name="screen_off_gestures_swipe_up_title">Húzás felfelé</string>
+  <string name="screen_off_gestures_swipe_up_dlg_title">Művelet megadása felhúzáskor</string>
   <string name="screen_off_gestures_swipe_down_title">Húzás lefelé</string>
+  <string name="screen_off_gestures_swipe_down_dlg_title">Művelet megadása lehúzáskor</string>
   <!-- Double tap to wake -->
+  <string name="tap_to_wake">Koppintson a felébresztéshez</string>
+  <string name="tap_to_wake_summary">Az eszköz felébresztéséhez koppintson kétszer bárhol a képernyőre</string>
   <!-- Screen off gestures haptic feedback -->
+  <string name="haptic_feedback">Érintési visszajelzés</string>
+  <string name="haptic_feedback_summary">Rezegjen a képernyő gesztus észlelésekor</string>
   <!-- Proximity sensor -->
+  <string name="allow_proximity_sensor_title">Közelségérzékelő engedélyezése</string>
+  <string name="allow_proximity_sensor_summary">Ellenőrizze a közelségi érzékelőt, a művelet végrehajtása előtt</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
 </resources>

@@ -18,6 +18,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Title and summary -->
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_on">Ndiz</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -49,10 +50,45 @@
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">Drita e ekranit sipas ambientit</string>
   <!-- Fingerprint gestures -->
+  <string name="fingerprint_actions_screenon">Aksionet me ekran te ndezur</string>
+  <string name="fingerprint_tap_title">Një prekje</string>
+  <string name="fingerprint_tap_dlg_title">Zgjidh aksionin per prekje te vetme</string>
+  <string name="fingerprint_double_tap_title">Prekje e dyherëshme</string>
+  <string name="fingerprint_double_tap_dlg_title">Zgjidh aksionin për prekje të dyherëshme</string>
+  <string name="fingerprint_long_tap_title">Prekje e gjatë</string>
+  <string name="fingerprint_long_tap_dlg_title">Zgjedh aksionet për prekje të gjatë</string>
+  <string name="fingerprint_swipe_left_title">Rrëshqit majtas</string>
+  <string name="fingerprint_swipe_left_dlg_title">Zgjidh aksionin për rrëshqitje majtas</string>
+  <string name="fingerprint_swipe_right_title">Rrëshqit djathtas</string>
+  <string name="fingerprint_swipe_right_dlg_title">Zgjidh aksionin për rrëshqitje djathtas</string>
   <!-- Fingerprint gestures screen off -->
+  <string name="fingerprint_actions_screenoff">Aksionet me ekran të ndalur</string>
   <!-- Actions -->
   <string name="action_none">Çaktivizo</string>
+  <string name="action_home">Shtëpi</string>
+  <string name="action_power">Ekrani on/off</string>
+  <string name="action_wake">Zgjo</string>
+  <string name="action_back">Mbrapa</string>
+  <string name="action_recents">Të fundit</string>
+  <string name="action_last_app">Aplikacioni fundit</string>
+  <string name="action_play_pause">Luaj/Pauzo</string>
+  <string name="action_flashlight">Drita on/off</string>
+  <string name="action_camera">Hap kamerën</string>
+  <string name="action_screenshot">Bëj foto të ekranit</string>
+  <string name="action_browser">Hap shfletuesin</string>
+  <string name="action_email">Hap aplikacionin e imellave</string>
+  <string name="action_messages">Hap apklikacionin e mesazheve</string>
   <!-- Screen off gestures -->
+  <string name="screen_off_gestures_title">Gjestet me ekran të mbyllur</string>
+  <string name="screen_off_gestures_manage_summary">Menagjoj gjestet kur ekrani eshte i ndalur</string>
+  <string name="screen_off_gestures_swipe_left_title">Rrëshqit majtas</string>
+  <string name="screen_off_gestures_swipe_left_dlg_title">Zgjidh aksionin për rrëshqitje majtas</string>
+  <string name="screen_off_gestures_swipe_right_title">Rrëshqit djathtas</string>
+  <string name="screen_off_gestures_swipe_right_dlg_title">Zgjidh aksionin për rrëshqitje djathtas</string>
+  <string name="screen_off_gestures_swipe_up_title">Rrëshqit sipër</string>
+  <string name="screen_off_gestures_swipe_up_dlg_title">Zgjidh aksionin për rrëshqitje lart</string>
+  <string name="screen_off_gestures_swipe_down_title">Rrëshqit poshtë</string>
+  <string name="screen_off_gestures_swipe_down_dlg_title">Zgjidh aksionin për rrëshqitje poshtë</string>
   <!-- Double tap to wake -->
   <!-- Screen off gestures haptic feedback -->
   <!-- Proximity sensor -->

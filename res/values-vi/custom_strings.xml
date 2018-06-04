@@ -18,6 +18,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Title and summary -->
+  <string name="moto_actions_title">Hành động mô tô</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_on">Bật</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -38,11 +40,11 @@
   <string name="flip_to_mute_title">Lật để Không làm phiền</string>
   <string name="flip_to_mute_summary">Lật úp điện thoại để tắt tiếng các thông báo và cuộc gọi</string>
   <!-- Lift to silence gesture -->
-  <string name="lift_to_silence_title">Nhấc lên để tắt chuông</string>
-  <string name="lift_to_silence_summary">Nhấc điện thoại để tắt tiếng cuộc gọi đến. Chỉ hoạt động khi điện thoại của bạn nằm trên mặt phẳng</string>
+  <string name="lift_to_silence_title">Cầm lên để tắt chuông</string>
+  <string name="lift_to_silence_summary">Cầm điện thoại lên để tắt chuông cuộc gọi đến. Chỉ hoạt động khi điện thoại của bạn nằm trên mặt phẳng</string>
   <!-- Pick-up gesture -->
-  <string name="pick_up_gesture_title">Nhấc lên</string>
-  <string name="pick_up_gesture_summary">Nháy thông báo khi nhấc lên</string>
+  <string name="pick_up_gesture_title">Cầm lên</string>
+  <string name="pick_up_gesture_summary">Kích hoạt thông báo khi cầm lên</string>
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">Cử chỉ</string>
   <!-- Device gestures -->

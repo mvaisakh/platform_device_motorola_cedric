@@ -18,6 +18,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Title and summary -->
+  <string name="moto_actions_title">मोटो क्रिया</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_on">चालू</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -55,6 +57,7 @@
   <string name="fingerprint_gestures_title">फिंगरप्रिंट इशारे</string>
   <string name="fingerprint_gestures_summary">अंगुली की छाप की इशारे</string>
   <string name="fingerprint_gestures_manage_summary">अंगुली की छाप की इशारों का प्रबंधन क्रे</string>
+  <string name="fingerprint_actions_screenon">स्क्रीन ऑन रहते होने वाली क्रिया</string>
   <string name="fingerprint_tap_title">एक बार दबाए</string>
   <string name="fingerprint_tap_dlg_title">एकल टैप के लिए कार्रवाई का चयन करें</string>
   <string name="fingerprint_double_tap_title">दो बार स्पर्श</string>
@@ -66,6 +69,9 @@
   <string name="fingerprint_swipe_right_title">दाएं स्वाइप करें</string>
   <string name="fingerprint_swipe_right_dlg_title">दाएं ओर करने पे लिए चयन करे</string>
   <!-- Fingerprint gestures screen off -->
+  <string name="fingerprint_gestures_screenoff_title">स्क्रीन ऑफ के समय अंगुलांक संकेत</string>
+  <string name="fingerprint_gestures_screenoff_summary">स्क्रीन बंद होने पर फिंगरप्रिंट जेस्चर का उपयोग करें। \ N \ n इस सुविधा का उपयोग करने के लिए फ़िंगरप्रिंट अनलॉकिंग अक्षम होना चाहिए।</string>
+  <string name="fingerprint_actions_screenoff">स्क्रीन बंद के साथ क्रियाएँ</string>
   <!-- Actions -->
   <string name="action_none">कोई नहीं</string>
   <string name="action_home">होम</string>
@@ -76,6 +82,7 @@
   <string name="action_last_app">पिछ्ला ऍप</string>
   <string name="action_volume_up">आवाज तेज करें</string>
   <string name="action_volume_down">आवाज कम करें</string>
+  <string name="action_voice_assistant">आवाज सहायक</string>
   <string name="action_play_pause">चालू /रुकें</string>
   <string name="action_previous_track">पिछला ट्रैक</string>
   <string name="action_next_track">अगला ट्रैक</string>
@@ -87,6 +94,8 @@
   <string name="action_email">ईमेल ऐप खोले</string>
   <string name="action_messages">संदेश ऐप खोले</string>
   <!-- Screen off gestures -->
+  <string name="screen_off_gestures_title">इशारा बंद स्क्रीन</string>
+  <string name="screen_off_gestures_manage_summary">स्क्रीन बंद होने पर संकेतों को प्रबंधित करें</string>
   <string name="screen_off_gestures_swipe_left_title">बाएं स्वाइप करें</string>
   <string name="screen_off_gestures_swipe_left_dlg_title">बाएं स्वाइप के लिए क्रिया का चयन करें</string>
   <string name="screen_off_gestures_swipe_right_title">दाएं स्वाइप करें</string>

@@ -18,6 +18,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Title and summary -->
+  <string name="moto_actions_title">Moto Ações</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_on">Ligado</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -38,10 +40,10 @@
   <string name="flip_to_mute_title">Modo Não Incomodar ao virar</string>
   <string name="flip_to_mute_summary">Coloque o telefone com o ecrã para baixo para silenciar notificações e chamadas</string>
   <!-- Lift to silence gesture -->
-  <string name="lift_to_silence_title">Pegar para parar de tocar</string>
+  <string name="lift_to_silence_title">Levantar para parar de tocar</string>
   <string name="lift_to_silence_summary">Levante o telefone para silenciar chamadas recebidas. Só funciona quando o seu telefone está pousado</string>
   <!-- Pick-up gesture -->
-  <string name="pick_up_gesture_title">Pegar</string>
+  <string name="pick_up_gesture_title">Levantar</string>
   <string name="pick_up_gesture_summary">Mostrar notificações ao pegar no dispositivo</string>
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">Gestos</string>
@@ -50,6 +52,7 @@
   <string name="device_gestures_summary">Gerir gestos do dispositivo</string>
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">Visualização de ambiente</string>
+  <string name="ambient_display_manage_summary">Gerenciar os gestos na visualização de ambiente</string>
   <!-- Fingerprint gestures -->
   <string name="fingerprint_gestures_title">Gestos da Impressão Digital</string>
   <string name="fingerprint_gestures_summary">Usar gestos do leitor de impressão digital</string>
@@ -67,10 +70,11 @@
   <string name="fingerprint_swipe_right_dlg_title">Selecione ação para deslize para a direita</string>
   <!-- Fingerprint gestures screen off -->
   <string name="fingerprint_gestures_screenoff_title">Gestos de Impressão Digital quando o ecrã está desligado</string>
+  <string name="fingerprint_gestures_screenoff_summary">Use gestos de impressão digital com ecrã desligado.\n\nDesbloqueio com impressão digital deve ser ativado para usar esse recurso.</string>
   <string name="fingerprint_actions_screenoff">Ações com o ecrã desligado</string>
   <!-- Actions -->
   <string name="action_none">Desativar</string>
-  <string name="action_home">Inicio</string>
+  <string name="action_home">Início</string>
   <string name="action_power">Ecrã ligado/desligado</string>
   <string name="action_wake">Acordar</string>
   <string name="action_back">Voltar</string>
@@ -87,10 +91,11 @@
   <string name="action_screenshot">Capturar ecrã</string>
   <string name="action_browser">Abrir o navegador</string>
   <string name="action_dialer">Abrir marcador</string>
-  <string name="action_email">Abrir app de email</string>
-  <string name="action_messages">Abrir app de mensagens</string>
+  <string name="action_email">Abrir aplicação de email</string>
+  <string name="action_messages">Abrir aplicação de mensagens</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">Gestos com o ecrã desligado</string>
+  <string name="screen_off_gestures_manage_summary">Gerenciar os gestos quando o ecrã está desligado</string>
   <string name="screen_off_gestures_swipe_left_title">Deslizar para a esquerda</string>
   <string name="screen_off_gestures_swipe_left_dlg_title">Selecione ação para deslize para a esquerda</string>
   <string name="screen_off_gestures_swipe_right_title">Deslizar para a direita</string>

@@ -18,13 +18,15 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Title and summary -->
+  <string name="moto_actions_title">Moto 操作</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_on">开</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_off">关</string>
   <!-- Camera gesture -->
   <string name="camera_gesture_title">扭动两次</string>
-  <string name="camera_gesture_summary">当扭动两次时打开相机</string>
+  <string name="camera_gesture_summary">当检测到两次转动操作时，打开相机</string>
   <!-- Chop-chop gesture -->
   <string name="chop_chop_gesture_title">旋转摇动</string>
   <string name="chop_chop_gesture_summary">两次旋转摇动以切换手电筒</string>
@@ -35,7 +37,7 @@
   <string name="hand_wave_gesture_title">挥手</string>
   <string name="hand_wave_gesture_summary">挥手时唤醒屏幕</string>
   <!-- Flip to mute gesture -->
-  <string name="flip_to_mute_title">翻转不打扰</string>
+  <string name="flip_to_mute_title">翻转以启用勿扰模式</string>
   <string name="flip_to_mute_summary">将手机朝下放置以静音通知和来电</string>
   <!-- Lift to silence gesture -->
   <string name="lift_to_silence_title">拿起后停止响铃</string>
@@ -95,13 +97,13 @@
   <string name="screen_off_gestures_title">熄屏手势</string>
   <string name="screen_off_gestures_manage_summary">管理息屏手势</string>
   <string name="screen_off_gestures_swipe_left_title">向左滑动</string>
-  <string name="screen_off_gestures_swipe_left_dlg_title">选择左滑行为</string>
+  <string name="screen_off_gestures_swipe_left_dlg_title">左滑动作</string>
   <string name="screen_off_gestures_swipe_right_title">向右滑动</string>
-  <string name="screen_off_gestures_swipe_right_dlg_title">选择右滑行为</string>
+  <string name="screen_off_gestures_swipe_right_dlg_title">右滑动作</string>
   <string name="screen_off_gestures_swipe_up_title">向上滑动</string>
-  <string name="screen_off_gestures_swipe_up_dlg_title">选择上滑行为</string>
+  <string name="screen_off_gestures_swipe_up_dlg_title">上滑动作</string>
   <string name="screen_off_gestures_swipe_down_title">向下滑动</string>
-  <string name="screen_off_gestures_swipe_down_dlg_title">选择下滑行为</string>
+  <string name="screen_off_gestures_swipe_down_dlg_title">下滑动作</string>
   <!-- Double tap to wake -->
   <string name="tap_to_wake">点击以唤醒</string>
   <string name="tap_to_wake_summary">双击屏幕唤醒设备</string>

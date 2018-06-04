@@ -18,8 +18,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Title and summary -->
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_on">เปิด</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_off">ปิด</string>
   <!-- Camera gesture -->
   <string name="camera_gesture_title">บิดสองครั้ง</string>
   <string name="camera_gesture_summary">เปิดกล้องเมื่อบิดสองครั้ง</string>
@@ -33,6 +36,7 @@
   <string name="hand_wave_gesture_title">การเคลื่อนไหวด้วยมือ</string>
   <string name="hand_wave_gesture_summary">เช็คการแจ้งเตือนเมื่อมีการโบกมือ</string>
   <!-- Flip to mute gesture -->
+  <string name="flip_to_mute_summary">คว่ำหน้าโทรศัพท์เพื่อปิดเสียงการแจ้งเตือนและโทร</string>
   <!-- Lift to silence gesture -->
   <!-- Pick-up gesture -->
   <!-- Device gestures panel -->
@@ -41,9 +45,35 @@
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">หน้าจอแวดล้อม</string>
   <!-- Fingerprint gestures -->
+  <string name="fingerprint_double_tap_title">เคาะสองครั้ง</string>
+  <string name="fingerprint_double_tap_dlg_title">เลือกการดำเนินการสำหรับเคาะสองครั้ง</string>
+  <string name="fingerprint_long_tap_title">แตะค้างไว้</string>
+  <string name="fingerprint_swipe_left_title">ปัดไปทางซ้าย</string>
+  <string name="fingerprint_swipe_left_dlg_title">เลือกการกระทำสำหรับปัดไปทางซ้าย</string>
+  <string name="fingerprint_swipe_right_title">ปัดไปทางขวา</string>
+  <string name="fingerprint_swipe_right_dlg_title">เลือกการกระทำสำหรับปัดไปทางขวา</string>
   <!-- Fingerprint gestures screen off -->
   <!-- Actions -->
   <string name="action_none">ปิด</string>
+  <string name="action_home">หน้าแรก</string>
+  <string name="action_power">หน้าจอเปิด/ปิด</string>
+  <string name="action_wake">ตื่น</string>
+  <string name="action_back">กลับ</string>
+  <string name="action_recents">ล่า​สุด</string>
+  <string name="action_last_app">แอปล่าสุด</string>
+  <string name="action_volume_up">ปรับเสียงขึ้น</string>
+  <string name="action_volume_down">ปรับเสียงลง</string>
+  <string name="action_voice_assistant">ผู้ช่วยเสียง</string>
+  <string name="action_play_pause">เล่น/หยุด</string>
+  <string name="action_previous_track">แทร็กก่อนหน้า</string>
+  <string name="action_next_track">แทร็คถัดไป</string>
+  <string name="action_flashlight">เปิด/ปิดไฟฉาย</string>
+  <string name="action_camera">เปิดกล้อง</string>
+  <string name="action_screenshot">จับภาพหน้าจอ</string>
+  <string name="action_browser">เปิดเบราเซอร์</string>
+  <string name="action_dialer">เปิดหน้าโทรศัพท์</string>
+  <string name="action_email">เปิดแอพอีเมลล์</string>
+  <string name="action_messages">เปิดแอพข้อความ</string>
   <!-- Screen off gestures -->
   <!-- Double tap to wake -->
   <!-- Screen off gestures haptic feedback -->

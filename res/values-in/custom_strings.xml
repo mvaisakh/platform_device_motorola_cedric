@@ -18,6 +18,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Title and summary -->
+  <string name="moto_actions_title">Tindakan Moto</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_on">Hidup</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -36,17 +38,17 @@
   <string name="hand_wave_gesture_summary">Kedipkan pemberitahuan saat melambaikan tangan</string>
   <!-- Flip to mute gesture -->
   <string name="flip_to_mute_title">Membalik untuk Jangan Ganggu</string>
-  <string name="flip_to_mute_summary">Balik layar telepon ke bawah untuk mengabaikan notifikasi dan panggilan</string>
+  <string name="flip_to_mute_summary">Balik layar telepon ke bawah untuk mengabaikan pemberitahuan dan panggilan</string>
   <!-- Lift to silence gesture -->
   <string name="lift_to_silence_title">Angkat untuk menghentikan dering</string>
   <string name="lift_to_silence_summary">Mengangkat telepon untuk menghentikan nada panggilan masuk. Ini hanya bekerja saat telepon dalam posisi datar</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Ambil</string>
-  <string name="pick_up_gesture_summary">Denyutkan pemberitahuan saat diambil</string>
+  <string name="pick_up_gesture_summary">Kedipkan pemberitahuan saat diambil</string>
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">Gerakan</string>
   <!-- Device gestures -->
-  <string name="device_gestures_title">Gerakan perangkat</string>
+  <string name="device_gestures_title">Gestur perangkat</string>
   <string name="device_gestures_summary">Kelola gerakan perangkat</string>
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">Tampilan ambien</string>
@@ -104,7 +106,7 @@
   <string name="screen_off_gestures_swipe_down_dlg_title">Pilih tindakan saat menggeser ke bawah</string>
   <!-- Double tap to wake -->
   <string name="tap_to_wake">Ketuk untuk bangun</string>
-  <string name="tap_to_wake_summary">Ketuk dua kali pada layar untuk menghidupkan perangkat</string>
+  <string name="tap_to_wake_summary">Ketuk dua kali dimana saja pada layar untuk membangunkan perangkat</string>
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">Umpan balik haptik</string>
   <string name="haptic_feedback_summary">Bergetar ketika gerakan menyentuh layar terdeteksi</string>

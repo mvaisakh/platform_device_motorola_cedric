@@ -18,6 +18,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Title and summary -->
+  <string name="moto_actions_title">Moto-toiminnot</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_on">Käytössä</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -46,16 +48,71 @@
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">Eleet</string>
   <!-- Device gestures -->
+  <string name="device_gestures_title">Laite-eleet</string>
+  <string name="device_gestures_summary">Hallitse laite-eleitä</string>
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">Ambient-näyttö</string>
+  <string name="ambient_display_manage_summary">Hallitse ympäristöeleitä</string>
   <!-- Fingerprint gestures -->
+  <string name="fingerprint_gestures_title">Sormenjälkieleet</string>
+  <string name="fingerprint_gestures_summary">Käytä sormenjälkieleitä</string>
+  <string name="fingerprint_gestures_manage_summary">Hallitse sormenjälkieleitä</string>
+  <string name="fingerprint_actions_screenon">Toiminnot näytön ollessa päällä</string>
+  <string name="fingerprint_tap_title">Yksi napautus</string>
+  <string name="fingerprint_tap_dlg_title">Valitse toiminto yhdellä napautuksella</string>
+  <string name="fingerprint_double_tap_title">Kaksoisnapautus</string>
+  <string name="fingerprint_double_tap_dlg_title">Valitse toiminto kahdella napautuksella</string>
+  <string name="fingerprint_long_tap_title">Pitkä painallus</string>
+  <string name="fingerprint_long_tap_dlg_title">Valitse toiminto pitkälle napautukselle</string>
+  <string name="fingerprint_swipe_left_title">Pyyhkäisy vasemmalle</string>
+  <string name="fingerprint_swipe_left_dlg_title">Valitse toiminto vasemmalle pyyhkäisylle</string>
+  <string name="fingerprint_swipe_right_title">Pyyhkäisy oikealle</string>
+  <string name="fingerprint_swipe_right_dlg_title">Valitse toiminto oikealle pyyhkäisylle</string>
   <!-- Fingerprint gestures screen off -->
+  <string name="fingerprint_gestures_screenoff_title">Sormenjälkieleet näytön ollessa suljettuna</string>
+  <string name="fingerprint_gestures_screenoff_summary">Käytä sormenjälkieleitä, näytön ollessa suljettuna.\n\nSormenjälkiavauksen täytyy olla poistettuna käytöstä, jotta voit käyttää tätä ominaisuutta.</string>
+  <string name="fingerprint_actions_screenoff">Toiminnot näytön ollessa suljettu</string>
   <!-- Actions -->
   <string name="action_none">Poista käytöstä</string>
+  <string name="action_home">Etusivu</string>
+  <string name="action_power">Näyttö päälle/pois</string>
+  <string name="action_wake">Herätä</string>
+  <string name="action_back">Takaisin</string>
+  <string name="action_recents">Viimeaikaiset</string>
+  <string name="action_last_app">Viimeisin sovellus</string>
+  <string name="action_volume_up">Äänenvoimakkuus ylös</string>
+  <string name="action_volume_down">Hiljennä</string>
+  <string name="action_voice_assistant">Google avustaja</string>
+  <string name="action_play_pause">Toista/tauko</string>
+  <string name="action_previous_track">Edellinen kappale</string>
+  <string name="action_next_track">Seuraava kappale</string>
+  <string name="action_flashlight">Taskulamppu päälle/pois</string>
+  <string name="action_camera">Avaa kamera</string>
+  <string name="action_screenshot">Ota kuvakaappaus</string>
+  <string name="action_browser">Avaa selain</string>
+  <string name="action_dialer">Avaa puhelusovellus</string>
+  <string name="action_email">Avaa sähköpostiohjelma</string>
+  <string name="action_messages">Avoimet viestit</string>
   <!-- Screen off gestures -->
+  <string name="screen_off_gestures_title">Eleet näytön ollessa suljettu</string>
+  <string name="screen_off_gestures_manage_summary">Hallita eleitä, kun näyttö on pois päältä</string>
+  <string name="screen_off_gestures_swipe_left_title">Pyyhkäisy vasemmalle</string>
+  <string name="screen_off_gestures_swipe_left_dlg_title">Valitse toiminto vasemmalle pyyhkäisylle</string>
+  <string name="screen_off_gestures_swipe_right_title">Pyyhkäisy oikealle</string>
+  <string name="screen_off_gestures_swipe_right_dlg_title">Valitse toiminto vasemmalle pyyhkäisylle</string>
+  <string name="screen_off_gestures_swipe_up_title">Pyyhkäise ylös</string>
+  <string name="screen_off_gestures_swipe_up_dlg_title">Valitse toiminto ylöspäin pyyhkäisylle</string>
+  <string name="screen_off_gestures_swipe_down_title">Pyyhkäise alas</string>
+  <string name="screen_off_gestures_swipe_down_dlg_title">Valitse toiminto alaspäin pyyhkäisylle</string>
   <!-- Double tap to wake -->
+  <string name="tap_to_wake">Herätä napauttamalla</string>
+  <string name="tap_to_wake_summary">Herätä laite napauttamalla näyttöä kahdesti</string>
   <!-- Screen off gestures haptic feedback -->
+  <string name="haptic_feedback">Haptinen palaute</string>
+  <string name="haptic_feedback_summary">Värinä kun kosketusnäytön ele tunnistetaan</string>
   <!-- Proximity sensor -->
+  <string name="allow_proximity_sensor_title">Ota etäisyysanturi käyttöön</string>
+  <string name="allow_proximity_sensor_summary">Tarkista etäisyys-anturi ennen toiminnon suorittamista</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
 </resources>

@@ -18,10 +18,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Title and summary -->
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">Включване</string>
+  <string name="switch_bar_on">Включи</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_off">Изключване</string>
+  <string name="switch_bar_off">Изключи</string>
   <!-- Camera gesture -->
   <string name="camera_gesture_title">Двойно завъртане</string>
   <string name="camera_gesture_summary">Стартирай камерата при двукратно-завъртане</string>
@@ -35,7 +36,7 @@
   <string name="hand_wave_gesture_title">Махане с ръка</string>
   <string name="hand_wave_gesture_summary">Показва известията при прекарване на ръка над екрана</string>
   <!-- Flip to mute gesture -->
-  <string name="flip_to_mute_title">Завъртете за режим \"Не ме безпокойте\"</string>
+  <string name="flip_to_mute_title">Обърнете за режим \"Не ме безпокойте\"</string>
   <string name="flip_to_mute_summary">Обърнете телефона с екрана надолу, за спиране на звука на уведомления и обаждания</string>
   <!-- Lift to silence gesture -->
   <string name="lift_to_silence_title">Повдигнете за да спре да звъни</string>
@@ -49,13 +50,43 @@
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">Активен дисплей</string>
   <!-- Fingerprint gestures -->
+  <string name="fingerprint_tap_title">Едно натискане</string>
+  <string name="fingerprint_double_tap_title">Двойно почукване</string>
+  <string name="fingerprint_long_tap_title">Дълго натискане</string>
+  <string name="fingerprint_swipe_left_title">Плъзнете наляво</string>
+  <string name="fingerprint_swipe_right_title">Плъзнете надясно</string>
   <!-- Fingerprint gestures screen off -->
   <!-- Actions -->
-  <string name="action_none">Деактивиране</string>
+  <string name="action_none">Няма</string>
+  <string name="action_home">Начало</string>
+  <string name="action_wake">Събуждане</string>
+  <string name="action_back">Назад</string>
+  <string name="action_recents">Последни</string>
+  <string name="action_last_app">Последно приложение</string>
+  <string name="action_volume_up">Увеличи звука</string>
+  <string name="action_volume_down">Намали звука</string>
+  <string name="action_voice_assistant">Гласов асистент</string>
+  <string name="action_play_pause">Пускане/пауза</string>
+  <string name="action_previous_track">Предишна песен</string>
+  <string name="action_next_track">Следващата песен</string>
+  <string name="action_camera">Отваряне на камерата</string>
+  <string name="action_screenshot">Направи екранна снимка</string>
+  <string name="action_browser">Отваряне на браузъра</string>
+  <string name="action_dialer">Отворяне на телефон</string>
   <!-- Screen off gestures -->
+  <string name="screen_off_gestures_title">Жестове при изключен екран</string>
+  <string name="screen_off_gestures_swipe_left_title">Плъзнете наляво</string>
+  <string name="screen_off_gestures_swipe_right_title">Плъзнете надясно</string>
+  <string name="screen_off_gestures_swipe_up_title">Плъзнете нагоре</string>
+  <string name="screen_off_gestures_swipe_down_title">Плъзнете надолу</string>
   <!-- Double tap to wake -->
+  <string name="tap_to_wake">Чукнете за събуждане</string>
+  <string name="tap_to_wake_summary">Чукнете два пъти където и да е чо екрана за да събудите устройството</string>
   <!-- Screen off gestures haptic feedback -->
+  <string name="haptic_feedback">Вибрация при докосване (обратна връзка)</string>
+  <string name="haptic_feedback_summary">Вибрира при засичане на сензорен жест</string>
   <!-- Proximity sensor -->
+  <string name="allow_proximity_sensor_title">Сензор за близост</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
 </resources>

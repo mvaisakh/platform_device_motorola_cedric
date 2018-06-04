@@ -91,7 +91,7 @@
   <string name="action_screenshot">Tirar uma captura de tela</string>
   <string name="action_browser">Abrir navegador</string>
   <string name="action_dialer">Abrir discador</string>
-  <string name="action_email">Abrir app de mail</string>
+  <string name="action_email">Abrir app de email</string>
   <string name="action_messages">Abrir app de mensagens</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">Gestos com a tela desligada</string>

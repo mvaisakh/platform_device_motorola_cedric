@@ -18,6 +18,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Title and summary -->
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_on">ચાલુ</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -92,9 +93,15 @@
   <string name="action_email">ઇમેઇલ ચાલુ કરો</string>
   <string name="action_messages">સંદેશ એપ ચાલુ કરો</string>
   <!-- Screen off gestures -->
+  <string name="screen_off_gestures_manage_summary">સ્ક્રીન બંધ હોય ત્યારે જેસચર મેનેજ કરો</string>
+  <string name="screen_off_gestures_swipe_up_title">સ્વાઈપ ઉપર</string>
   <!-- Double tap to wake -->
+  <string name="tap_to_wake">સક્રિય કરવા બે વાર ટેપ કરો</string>
   <!-- Screen off gestures haptic feedback -->
+  <string name="haptic_feedback_summary">જ્યારે ટચસ્ક્રીન જેસચર શોધાયેલ હોય ત્યારે ધ્રૂજવું</string>
   <!-- Proximity sensor -->
+  <string name="allow_proximity_sensor_title">પ્રોક્સીમેટ્રી સેન્સર ને મંજૂરી આપો</string>
+  <string name="allow_proximity_sensor_summary">ક્રિયા કરવા પહેલાં પ્રોકસીમેટ્રી સેન્સર તપાસો</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
 </resources>

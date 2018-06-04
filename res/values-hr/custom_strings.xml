@@ -18,6 +18,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Title and summary -->
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_on">Uključeno</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->

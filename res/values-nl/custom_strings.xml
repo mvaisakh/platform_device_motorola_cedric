@@ -18,6 +18,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Title and summary -->
+  <string name="moto_actions_title">Moto acties</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_on">Aan</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -55,22 +57,62 @@
   <string name="fingerprint_gestures_title">Vingerafdrukgebaren</string>
   <string name="fingerprint_gestures_summary">Vingerafdrukgebaren gebruiken</string>
   <string name="fingerprint_gestures_manage_summary">Vingerafdrukgebaren beheren</string>
+  <string name="fingerprint_actions_screenon">Acties met scherm aan</string>
   <string name="fingerprint_tap_title">Enkele klik</string>
+  <string name="fingerprint_tap_dlg_title">Selecteer actie voor enkele aanraking</string>
   <string name="fingerprint_double_tap_title">Dubbel klikken</string>
+  <string name="fingerprint_double_tap_dlg_title">Selecteer actie voor dubbele aanraking</string>
   <string name="fingerprint_long_tap_title">Lang aanraken</string>
+  <string name="fingerprint_long_tap_dlg_title">Selecteer actie voor lange aanraking</string>
+  <string name="fingerprint_swipe_left_title">Veeg links</string>
+  <string name="fingerprint_swipe_left_dlg_title">Selecteer actie voor veeg naar links</string>
+  <string name="fingerprint_swipe_right_title">Veeg rechts</string>
+  <string name="fingerprint_swipe_right_dlg_title">Selecteer actie voor veeg naar rechts</string>
   <!-- Fingerprint gestures screen off -->
+  <string name="fingerprint_gestures_screenoff_title">Vingerafdruk gebaren wanneer scherm uit is</string>
+  <string name="fingerprint_gestures_screenoff_summary">Gebruik vingerafdruk gebaren wanneer scherm uit is.\n\nVingerafdruk ontgrendelen moet uitgeschakeld zijn om deze functie te gebruiken.</string>
+  <string name="fingerprint_actions_screenoff">Acties met scherm uit</string>
   <!-- Actions -->
   <string name="action_none">Uitschakelen</string>
+  <string name="action_home">Thuis</string>
+  <string name="action_power">Scherm aan/uit</string>
+  <string name="action_wake">Ontwaken</string>
   <string name="action_back">Terug</string>
+  <string name="action_recents">Recente apps</string>
+  <string name="action_last_app">Laatste app</string>
+  <string name="action_volume_up">Volume omhoog</string>
+  <string name="action_volume_down">Volume omlaag</string>
+  <string name="action_voice_assistant">Spraakassistent</string>
+  <string name="action_play_pause">Afspelen/Pauzeren</string>
+  <string name="action_previous_track">Vorig nummer</string>
+  <string name="action_next_track">Volgend nummer</string>
+  <string name="action_flashlight">Zaklamp aan/uit</string>
   <string name="action_camera">Open camera</string>
   <string name="action_screenshot">Maak schermafdruk</string>
   <string name="action_browser">Open Browser</string>
   <string name="action_dialer">Telefoon-app openen</string>
+  <string name="action_email">Openen email app</string>
+  <string name="action_messages">Open berichten app</string>
   <!-- Screen off gestures -->
+  <string name="screen_off_gestures_title">Scherm-uit gebaren</string>
+  <string name="screen_off_gestures_manage_summary">Beheren gebaren wanneer scherm uit is</string>
+  <string name="screen_off_gestures_swipe_left_title">Veeg links</string>
+  <string name="screen_off_gestures_swipe_left_dlg_title">Selecteer actie voor veeg naar links</string>
+  <string name="screen_off_gestures_swipe_right_title">Veeg rechts</string>
+  <string name="screen_off_gestures_swipe_right_dlg_title">Selecteer actie voor veeg naar rechts</string>
+  <string name="screen_off_gestures_swipe_up_title">Omhoog vegen</string>
+  <string name="screen_off_gestures_swipe_up_dlg_title">Selecteer actie voor veeg omhoog</string>
+  <string name="screen_off_gestures_swipe_down_title">Omlaag vegen</string>
+  <string name="screen_off_gestures_swipe_down_dlg_title">Selecteer actie voor veeg omlaag</string>
   <!-- Double tap to wake -->
   <string name="tap_to_wake">Tikken om te activeren</string>
+  <string name="tap_to_wake_summary">Dubbeltikken op het scherm om het apparaat te activeren</string>
   <!-- Screen off gestures haptic feedback -->
+  <string name="haptic_feedback">Haptische feedback</string>
+  <string name="haptic_feedback_summary">Trillen wanneer een schermgebaar herkend wordt</string>
   <!-- Proximity sensor -->
+  <string name="allow_proximity_sensor_title">Nabijheidsensor gebruiken</string>
+  <string name="allow_proximity_sensor_summary">Nabijheidsensor checken voordat actie wordt uitgevoerd</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
 </resources>
