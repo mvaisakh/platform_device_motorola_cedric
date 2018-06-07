@@ -48,7 +48,7 @@
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">Gerakan</string>
   <!-- Device gestures -->
-  <string name="device_gestures_title">Gestur perangkat</string>
+  <string name="device_gestures_title">Gerakan perangkat</string>
   <string name="device_gestures_summary">Kelola gerakan perangkat</string>
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">Tampilan ambien</string>

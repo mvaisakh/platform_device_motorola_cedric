@@ -94,7 +94,7 @@
   <string name="action_email">Apri applicazione predefinita email</string>
   <string name="action_messages">Apri applicazione predefinita messaggi</string>
   <!-- Screen off gestures -->
-  <string name="screen_off_gestures_title">Gestisci con schermo spento</string>
+  <string name="screen_off_gestures_title">Gesti a schermo spento</string>
   <string name="screen_off_gestures_manage_summary">Gestisci gesti con schermo spento</string>
   <string name="screen_off_gestures_swipe_left_title">Scorri a sinistra</string>
   <string name="screen_off_gestures_swipe_left_dlg_title">Seleziona azione per scorri a sinistra</string>

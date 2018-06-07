@@ -51,7 +51,7 @@
   <string name="device_gestures_title">デバイスジェスチャー</string>
   <string name="device_gestures_summary">デバイスジェスチャーの管理</string>
   <!-- Ambient display gestures -->
-  <string name="ambient_display_title">アンビエント表示</string>
+  <string name="ambient_display_title">アンビエントディスプレイ</string>
   <string name="ambient_display_manage_summary">アンビエントディスプレイジェスチャーの管理</string>
   <!-- Fingerprint gestures -->
   <string name="fingerprint_gestures_title">指紋ジェスチャー</string>
