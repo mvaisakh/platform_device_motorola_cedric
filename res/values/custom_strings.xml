@@ -138,4 +138,7 @@
     <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
     <string name="double_tap_power_for_camera_summary" translatable="false">To quickly open camera, press the power button twice. Works from any screen.</string>
 
+    <!-- Restart device -->
+    <string name="restart_needed">The device must be restarted to apply the settings, restart now?</string>
+
 </resources>
