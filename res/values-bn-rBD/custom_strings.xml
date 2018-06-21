@@ -115,4 +115,5 @@
   <string name="allow_proximity_sensor_summary">কর্মটি শুরু করার আগে প্রক্সিমিটি সেন্সর পরীক্ষা করুন</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
+  <!-- Restart device -->
 </resources>

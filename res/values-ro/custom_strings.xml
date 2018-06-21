@@ -115,4 +115,5 @@
   <string name="allow_proximity_sensor_summary">Verifică senzorul de proximitate înainte de a efectua acțiunea</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
+  <!-- Restart device -->
 </resources>

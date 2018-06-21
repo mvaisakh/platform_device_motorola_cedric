@@ -115,4 +115,6 @@
   <string name="allow_proximity_sensor_summary">在执行操作前检查距离传感器</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
+  <!-- Restart device -->
+  <string name="restart_needed">设备必须重新启动才能应用这些设置，是否立即重启？</string>
 </resources>

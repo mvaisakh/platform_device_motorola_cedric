@@ -89,4 +89,5 @@
   <string name="allow_proximity_sensor_title">Сензор за близост</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
+  <!-- Restart device -->
 </resources>

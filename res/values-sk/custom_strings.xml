@@ -115,4 +115,6 @@
   <string name="allow_proximity_sensor_summary">Skontrolovať senzor priblíženia pred vykonaním akcie</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
+  <!-- Restart device -->
+  <string name="restart_needed">Zariadenie musí byť reštartované, aby bolo možné vykonať nastavenia, reštartovať teraz?</string>
 </resources>

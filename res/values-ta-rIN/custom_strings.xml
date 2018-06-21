@@ -114,4 +114,5 @@
   <string name="allow_proximity_sensor_summary">செயலைச் செய்வதற்கு முன்னர் அலைபேசி சென்சார் சரிபார்க்கவும்</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
+  <!-- Restart device -->
 </resources>

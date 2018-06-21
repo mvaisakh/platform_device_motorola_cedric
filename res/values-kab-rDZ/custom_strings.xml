@@ -115,4 +115,5 @@
   <string name="allow_proximity_sensor_summary">Senqed amaṭṭaf n tanila send uselkem n tigawt </string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
+  <!-- Restart device -->
 </resources>

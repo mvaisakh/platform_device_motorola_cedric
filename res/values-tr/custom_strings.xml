@@ -115,4 +115,6 @@
   <string name="allow_proximity_sensor_summary">İşlemi gerçekleştirmeden önce yakınlık sensörünü kontrol eder</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
+  <!-- Restart device -->
+  <string name="restart_needed">Ayarları uygulamak için cihaz yeniden başlatılmalı, şimdi yeniden başlatılsın mı?</string>
 </resources>

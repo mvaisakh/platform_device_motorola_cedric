@@ -21,9 +21,9 @@
   <!-- Title and summary -->
   <string name="moto_actions_title">Motoアクション</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_on">ON</string>
+  <string name="switch_bar_on">オン</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_off">OFF</string>
+  <string name="switch_bar_off">オフ</string>
   <!-- Camera gesture -->
   <string name="camera_gesture_title">2回ひねり</string>
   <string name="camera_gesture_summary">2回ひねりのジェスチャーでカメラを起動</string>
@@ -37,7 +37,7 @@
   <string name="hand_wave_gesture_title">手を振る</string>
   <string name="hand_wave_gesture_summary">手を振ったときに通知を点滅表示する</string>
   <!-- Flip to mute gesture -->
-  <string name="flip_to_mute_title">裏返してミュート</string>
+  <string name="flip_to_mute_title">裏返してマナーモード</string>
   <string name="flip_to_mute_summary">端末を裏向きにして通知と通話をサイレントにする</string>
   <!-- Lift to silence gesture -->
   <string name="lift_to_silence_title">持ち上げて着信音停止</string>
@@ -51,8 +51,8 @@
   <string name="device_gestures_title">デバイスジェスチャー</string>
   <string name="device_gestures_summary">デバイスジェスチャーの管理</string>
   <!-- Ambient display gestures -->
-  <string name="ambient_display_title">アンビエントディスプレイ</string>
-  <string name="ambient_display_manage_summary">アンビエントディスプレイジェスチャーの管理</string>
+  <string name="ambient_display_title">アンビエント表示</string>
+  <string name="ambient_display_manage_summary">アンビエント表示ジェスチャーの管理</string>
   <!-- Fingerprint gestures -->
   <string name="fingerprint_gestures_title">指紋ジェスチャー</string>
   <string name="fingerprint_gestures_summary">指紋ジェスチャーの管理</string>
@@ -75,7 +75,7 @@
   <!-- Actions -->
   <string name="action_none">無効</string>
   <string name="action_home">ホーム</string>
-  <string name="action_power">画面オン/オフ</string>
+  <string name="action_power">画面のオン/オフ</string>
   <string name="action_wake">起動</string>
   <string name="action_back">戻る</string>
   <string name="action_recents">アプリ履歴</string>
@@ -86,7 +86,7 @@
   <string name="action_play_pause">再生 / 一時停止</string>
   <string name="action_previous_track">前のトラック</string>
   <string name="action_next_track">次のトラック</string>
-  <string name="action_flashlight">ライトのON/OFF</string>
+  <string name="action_flashlight">ライトのオン/オフ</string>
   <string name="action_camera">カメラを起動</string>
   <string name="action_screenshot">スクリーンショットを撮る</string>
   <string name="action_browser">ブラウザーを起動</string>
@@ -108,11 +108,13 @@
   <string name="tap_to_wake">タップして復帰</string>
   <string name="tap_to_wake_summary">画面をダブルタップすると端末が復帰します</string>
   <!-- Screen off gestures haptic feedback -->
-  <string name="haptic_feedback">入力時バイブ</string>
-  <string name="haptic_feedback_summary">タッチスクリーンジェスチャーを検出したときにバイブします</string>
+  <string name="haptic_feedback">振動フィードバック</string>
+  <string name="haptic_feedback_summary">タッチスクリーンジェスチャーを検出したときにバイブさせる</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">近接センサーを許可</string>
   <string name="allow_proximity_sensor_summary">動作を実行する前に近接センサーを確認する</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
+  <!-- Restart device -->
+  <string name="restart_needed">設定を適用するには端末を再起動する必要があります。再起動しますか？</string>
 </resources>

@@ -115,4 +115,6 @@
   <string name="allow_proximity_sensor_summary">Controllare il sensore di prossimità prima di eseguire l\'azione</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
+  <!-- Restart device -->
+  <string name="restart_needed">Il dispositivo deve essere riavviato per applicare le impostazioni, riavviare ora?</string>
 </resources>

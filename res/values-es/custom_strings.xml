@@ -19,7 +19,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Title and summary -->
-  <string name="moto_actions_title">Onda vital, a todo gas, lobezno, las super nenas, el tío golpetazo, no problemo, Don pepe y sus globos, celula</string>
+  <string name="moto_actions_title">Acciones Moto</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_on">Encendido</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -115,4 +115,5 @@
   <string name="allow_proximity_sensor_summary">Comprobar el sensor de proximidad antes de realizar la acción</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
+  <!-- Restart device -->
 </resources>
