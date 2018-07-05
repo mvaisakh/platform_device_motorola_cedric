@@ -116,4 +116,5 @@
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
   <!-- Restart device -->
+  <string name="restart_needed">Η συσκευή θα πρέπει να επανεκκινηθεί για εφαρμογή των ρυθμίσεων, επανεκκίνηση τώρα;</string>
 </resources>

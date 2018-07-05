@@ -28,7 +28,7 @@
   <string name="camera_gesture_title">Doble giro</string>
   <string name="camera_gesture_summary">Abrir la cámara cuando se use el gesto de doble giro</string>
   <!-- Chop-chop gesture -->
-  <string name="chop_chop_gesture_title">Doble giró</string>
+  <string name="chop_chop_gesture_title">Doble giro</string>
   <string name="chop_chop_gesture_summary">Encender linterna cuando se use el gesto de doble sacudida</string>
   <!-- Hand wave silencer gesture -->
   <string name="hand_wave_silencer_title">Agitar para silenciar la llamada</string>
@@ -116,4 +116,5 @@
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
   <!-- Restart device -->
+  <string name="restart_needed">El dispositivo debe ser reiniciado para aplicar la configuración, ¿reiniciar ahora?</string>
 </resources>

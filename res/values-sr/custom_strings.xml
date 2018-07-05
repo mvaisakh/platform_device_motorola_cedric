@@ -79,7 +79,7 @@
   <string name="action_wake">Буђење</string>
   <string name="action_back">Назад</string>
   <string name="action_recents">Мени недавних апликација</string>
-  <string name="action_last_app">Задња апликација</string>
+  <string name="action_last_app">Последња апликација</string>
   <string name="action_volume_up">Појачавање звука</string>
   <string name="action_volume_down">Смањивање звука</string>
   <string name="action_voice_assistant">Гласовни асистент</string>
@@ -89,10 +89,10 @@
   <string name="action_flashlight">Укључи/искључи батеријску лампу</string>
   <string name="action_camera">Отвори камеру</string>
   <string name="action_screenshot">Направи снимак екрана</string>
-  <string name="action_browser">Отвори прегледач</string>
+  <string name="action_browser">Отвори претраживач</string>
   <string name="action_dialer">Отвори бројчаник</string>
   <string name="action_email">Отвори апликацију е-поште</string>
-  <string name="action_messages">Отворите SMS апликацију</string>
+  <string name="action_messages">Отворите Sms апликацију</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">Покрети при искљученом екрану</string>
   <string name="screen_off_gestures_manage_summary">Управљај покретима када је екран искључен</string>
@@ -106,7 +106,7 @@
   <string name="screen_off_gestures_swipe_down_dlg_title">Изаберите акцију када превлачите надоле</string>
   <!-- Double tap to wake -->
   <string name="tap_to_wake">Додирните за буђење</string>
-  <string name="tap_to_wake_summary">Двапут додирните било који део екрана да бисте пробудили уређај</string>
+  <string name="tap_to_wake_summary">Двапут додирните екран било где да бисте пробудили уређај</string>
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">Вибрација при додиру</string>
   <string name="haptic_feedback_summary">Вибрирај када се открије покрет на екрану</string>
@@ -116,4 +116,5 @@
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
   <!-- Restart device -->
+  <string name="restart_needed">Уређај мора бити рестартован да би подешавања била примењена, рестартуј сада?</string>
 </resources>

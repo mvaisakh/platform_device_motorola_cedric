@@ -19,6 +19,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Title and summary -->
+  <string name="moto_actions_title">Moto Actions</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_on">Включи</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -47,6 +48,7 @@
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">Жестове</string>
   <!-- Device gestures -->
+  <string name="device_gestures_title">Жестове на устройството</string>
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">Активен дисплей</string>
   <!-- Fingerprint gestures -->

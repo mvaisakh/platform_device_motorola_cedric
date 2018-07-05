@@ -109,7 +109,7 @@
   <string name="tap_to_wake_summary">画面をダブルタップすると端末が復帰します</string>
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">振動フィードバック</string>
-  <string name="haptic_feedback_summary">タッチスクリーンジェスチャーを検出したときにバイブさせる</string>
+  <string name="haptic_feedback_summary">タッチスクリーンジェスチャーを検出したときに振動させる</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">近接センサーを許可</string>
   <string name="allow_proximity_sensor_summary">動作を実行する前に近接センサーを確認する</string>
