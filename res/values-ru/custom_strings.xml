@@ -116,5 +116,5 @@
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
   <!-- Restart device -->
-  <string name="restart_needed">Устройство необходимо перезапустить, чтобы применить настройки. Перезапустить сейчас?</string>
+  <string name="restart_needed">Необходим перезапуск, чтобы все изменения вступили в силу, перезапустить?</string>
 </resources>

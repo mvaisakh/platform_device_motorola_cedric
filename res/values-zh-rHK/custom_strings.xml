@@ -94,7 +94,7 @@
   <string name="action_email">開啟電郵應用程式</string>
   <string name="action_messages">開啟訊息應用程式</string>
   <!-- Screen off gestures -->
-  <string name="screen_off_gestures_title">關閉螢幕手勢</string>
+  <string name="screen_off_gestures_title">螢幕關閉手勢</string>
   <string name="screen_off_gestures_manage_summary">管理關閉螢幕時的手勢</string>
   <string name="screen_off_gestures_swipe_left_title">向左滑動</string>
   <string name="screen_off_gestures_swipe_left_dlg_title">選擇向左滑動的動作</string>
