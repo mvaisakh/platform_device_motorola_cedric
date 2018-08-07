@@ -116,4 +116,5 @@
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
   <!-- Restart device -->
+  <string name="restart_needed">설정을 적용하려면 장치를 다시 시작해야합니다. 지금 다시 시작 하시겠습니까?</string>
 </resources>
