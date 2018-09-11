@@ -20,8 +20,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Title and summary -->
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_on">Уключана</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
+  <string name="switch_bar_off">Адключана</string>
   <!-- Camera gesture -->
+  <string name="camera_gesture_title">Падвойнае кручэнне</string>
+  <string name="camera_gesture_summary">Запускаць праграму камеры пры падвойным кручэнні</string>
   <!-- Chop-chop gesture -->
   <string name="chop_chop_gesture_title">Уструс</string>
   <!-- Hand wave silencer gesture -->
