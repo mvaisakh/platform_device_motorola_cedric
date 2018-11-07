@@ -317,6 +317,7 @@ PRODUCT_PACKAGES += \
     init.mmi.rc \
     init.cedric.rc \
     init.mmi.usb.rc \
+    init.msm.usb.configfs.rc \
     init.qcom.rc \
     init.qcom.ril.sh \
     ueventd.qcom.rc \
