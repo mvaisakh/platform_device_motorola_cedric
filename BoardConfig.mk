@@ -81,9 +81,8 @@ BOARD_MKBOOTIMG_ARGS := --ramdisk_offset 0x01000000 --tags_offset 0x00000100
 TARGET_KERNEL_ARCH := arm
 TARGET_KERNEL_CONFIG := cedric_defconfig
 TARGET_KERNEL_SOURCE := kernel/motorola/msm8937
-
-# SDClang
-TARGET_USE_SDCLANG := true
+KERNEL_TOOLCHAIN := $(PWD)/prebuilts/gcc/$(HOST_OS)-x86/arm/arm-linux-androideabi-4.9/bin
+TARGET_KERNEL_CROSS_COMPILE_PREFIX := arm-linux-androideabi-
 
 # Audio
 AUDIO_FEATURE_ENABLED_ALAC_OFFLOAD := true
@@ -212,7 +211,7 @@ LZMA_RAMDISK_TARGETS := recovery
 TARGET_RIL_VARIANT := caf
 
 # SELinux
-#include device/qcom/sepolicy/sepolicy.mk
+include device/qcom/sepolicy/sepolicy.mk
 #BOARD_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy
 
 # Sensor
@@ -233,7 +232,6 @@ MOT_SENSOR_HUB_FEATURE_GR := true
 TARGET_LD_SHIM_LIBS := \
     /system/vendor/bin/adspd|libshim_adsp.so \
     /system/vendor/lib64/libmdmcutback.so|libqsap_shim.so \
-    /system/vendor/lib/libmot_gpu_mapper.so|libgpu_mapper_shim.so \
     /system/lib/libjustshoot.so|libjustshoot_shim.so
 
 # Thermal
