@@ -6,6 +6,8 @@
 bin/adspd
 bin/adsprpcd
 bin/akmd09912
+-priv-app/ims/ims.apk|eef47c0b6f250e7f96e7155d84274b1c83940d8f
+
 bin/ATFWD-daemon
 bin/btnvtool
 bin/charge_only_mode
@@ -157,6 +159,7 @@ lib/hw/camera.msm8937.so:lib/hw/camera.vendor.msm8937.so
 lib/hw/fingerprint.msm8937.so
 lib/hw/sensorhub.msm8937.so
 lib/hw/sensors.msm8937.so
+-framework/qti-telephony-common.jar|b1953a3599255f08f1785c677d22810f65e0167b
 lib/libadropbox.so
 lib/libadvalgcore.so
 lib/libarcsoft_beautyshot.so
