@@ -27,6 +27,7 @@ import android.content.ServiceConnection;
 import android.os.IBinder;
 import android.util.Log;
 
+import com.moto.actions.DisplayCalibration;
 import com.moto.actions.util.FileUtils;
 import com.moto.actions.actions.Constants;
 import com.moto.actions.ServiceWrapper.LocalBinder;
@@ -47,6 +48,7 @@ public class BootCompletedReceiver extends BroadcastReceiver {
         }
 
         context.startService(new Intent(context, ServiceWrapper.class));
+            DisplayCalibration.restore(context);
     }
 
     private ServiceConnection serviceConnection = new ServiceConnection() {
