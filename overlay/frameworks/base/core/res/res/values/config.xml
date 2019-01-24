@@ -392,6 +392,9 @@
     -->
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
 
+     <!-- Specifies whether to decouple the auto-suspend state of the device from the display on/off state. -->
+     <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
+
     <!-- The RadioAccessFamilies supported by the device.
          Empty is viewed as "all".  Only used on devices which
          don't support RIL_REQUEST_GET_RADIO_CAPABILITY
