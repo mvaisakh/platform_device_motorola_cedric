@@ -327,10 +327,11 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.vendor.at_library=libqti-at.so \
     ro.vendor.gt_library=libqti-gt.so
 
-# Set display color mode to Boosted by default
+# Set display color mode to Adaptive by default
  PRODUCT_PROPERTY_OVERRIDES += \
-    persist.sys.sf.color_saturation=1.1 \
-    persist.sys.sf.native_mode=0
+    persist.sys.sf.color_saturation=1.0 \
+    persist.sys.sf.native_mode=2 \
+    persist.sys.sf.color_mode=9
 
 # SurfaceFlinger
 PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
