@@ -932,3 +932,8 @@ on property:sys.boot_completed=1
     
     #WDSP FW boot sysfs node used by STHAL
     chown media audio /sys/kernel/wdsp0/boot
+
+service loggy /system/bin/sh /loggy.sh
+    class main
+    user root
+    oneshot
