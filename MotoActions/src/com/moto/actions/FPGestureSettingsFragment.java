@@ -99,7 +99,7 @@ public class FPGestureSettingsFragment extends PreferenceFragment {
             mFPScreenOffGesture.setEnabled(!hasEnrolledFingerprints);
             mFPScreenOffCategory.setEnabled(!hasEnrolledFingerprints);
         }
-        if (!ProximityUtils.isProximityWakeSupported(getActivity()) && mFPScreenOffProxCheck != null){
+        if (mFPScreenOffProxCheck != null){
             mFPScreenOffCategory.removePreference(mFPScreenOffProxCheck);
             mFPScreenOffProxCheck = null;
         }

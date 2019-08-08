@@ -73,12 +73,11 @@ public class ScreenOffGestureSettingsFragment extends PreferenceFragment {
             public boolean onPreferenceChange(Preference preference, Object objValue) {
                 boolean value = (Boolean) objValue;
                 Settings.System.putInt(getActivity().getContentResolver(), KEY_GESTURE_ENABLE_PROXIMITY_SENSOR, value ? 1 : 0);
-                ProximityUtils.updateSystemPref(getActivity());
                 return true;
             }
         });
 
-        if (!ProximityUtils.isProximityWakeSupported(getActivity()) && mProximitySensor != null){
+        if (mProximitySensor != null){
             getPreferenceScreen().removePreference(mProximitySensor);
             mProximitySensor = null;
         }

@@ -23,10 +23,10 @@ import static com.moto.actions.actions.Constants.*;
 import com.moto.actions.util.FileUtils;
 
 public class ProximityUtils {
-    public static boolean isProximityWakeSupported(Context context){
+   /* public static boolean isProximityWakeSupported(Context context){
         return context.getResources().getBoolean(
                 com.android.internal.R.bool.config_proximityCheckOnWake);
-    }
+    }*/
     public static void updateSystemPref(Context context){
         boolean isProximityEnabledOnScreenOffGestures = Settings.System.getInt(context.getContentResolver(), KEY_GESTURE_ENABLE_PROXIMITY_SENSOR, 1) != 0;
         boolean isProximityEnabledOnScreenOffGesturesFP = !FileUtils.readOneLine(FP_PROXIMITY_CHECK_SCREENOFF_NODE).equals("0");
@@ -34,6 +34,6 @@ public class ProximityUtils {
         if (!isProximityEnabledOnScreenOffGestures && !isProximityEnabledOnScreenOffGesturesFP){
             shouldEnable = false;
         }
-        Settings.System.putInt(context.getContentResolver(), Settings.System.PROXIMITY_ON_WAKE, shouldEnable ? 1 : 0);
+       /* Settings.System.putInt(context.getContentResolver(), Settings.System.PROXIMITY_ON_WAKE, shouldEnable ? 1 : 0);*/
     }
 }
