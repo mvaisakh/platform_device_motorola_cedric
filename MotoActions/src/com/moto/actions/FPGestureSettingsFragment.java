@@ -20,11 +20,7 @@ import android.app.ActionBar;
 import android.os.Bundle;
 import android.content.Context;
 import android.content.SharedPreferences.Editor;
-import android.preference.PreferenceManager;
-import android.support.v7.preference.PreferenceCategory;
-import android.support.v14.preference.SwitchPreference;
 import android.hardware.fingerprint.FingerprintManager;
-import android.support.v14.preference.PreferenceFragment;
 import android.view.MenuItem;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -32,6 +28,10 @@ import android.view.ViewGroup;
 import android.widget.CompoundButton;
 import android.widget.Switch;
 import android.widget.TextView;
+import androidx.preference.PreferenceManager;
+import androidx.preference.PreferenceCategory;
+import androidx.preference.SwitchPreference;
+import androidx.preference.PreferenceFragment;
 
 import com.moto.actions.actions.Constants;
 
