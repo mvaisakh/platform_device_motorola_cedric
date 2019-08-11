@@ -31,6 +31,7 @@ else
 LOCAL_SRC_FILES += thermal_target.c
 endif
 
+LOCAL_HEADER_LIBRARIES := libutils_headers libhardware_headers
 LOCAL_SHARED_LIBRARIES := liblog libcutils
 LOCAL_MODULE_TAGS := optional
 LOCAL_CFLAGS := -Wno-unused-parameter
