@@ -494,4 +494,8 @@
         <item>com.moto.actions.KeyHandler</item>
     </string-array>
 
+    <!-- Default color temperature, in Kelvin, to tint the screen when Night display is
+        activated. -->
+    <integer name="config_nightDisplayColorTemperatureDefault">3339</integer>
+
 </resources>
