@@ -474,5 +474,12 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
+# Theme it Out!
 PRODUCT_PACKAGES += \
     ThemePicker
+
+PRODUCT_PACKAGES += \
+    theming-overlays
+
+
+
