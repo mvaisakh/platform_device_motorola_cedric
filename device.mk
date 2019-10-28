@@ -479,7 +479,5 @@ PRODUCT_PACKAGES += \
     ThemePicker
 
 PRODUCT_PACKAGES += \
-    theming-overlays
-
-
-
+    theming-overlays \
+    ParanoidOverlayStub
