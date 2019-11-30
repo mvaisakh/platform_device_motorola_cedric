@@ -22,8 +22,7 @@ $(call inherit-product, device/motorola/cedric/full_cedric.mk)
 $(call inherit-product-if-exists, vendor/aosp/config/common_full_phone.mk)
 
 # Boot animation
-TARGET_SCREEN_WIDTH := 1080
-TARGET_SCREEN_HEIGHT := 1920
+TARGET_BOOT_ANIMATION_RES := 1080
 
 # GApps
 TARGET_GAPPS_ARCH := arm64
