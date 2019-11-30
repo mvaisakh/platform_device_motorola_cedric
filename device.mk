@@ -66,6 +66,8 @@ PRODUCT_AAPT_CONFIG := normal
 PRODUCT_PACKAGES += \
     android.hardware.audio@5.0-impl \
     android.hardware.audio@2.0-service \
+    android.hardware.bluetooth.audio@2.0-impl \
+    android.hardware.bluetooth.audio@2.0 \
     android.hardware.audio.effect@5.0-impl \
     android.hardware.broadcastradio@1.0-impl \
     audio.primary.msm8937 \
@@ -102,8 +104,12 @@ PRODUCT_COPY_FILES += \
 
 # Bluetooth
 PRODUCT_PACKAGES += \
-    persist.bluetooth.bluetooth_audio_hal.disabled=true \
-    libbt-vendor
+    android.hardware.bluetooth@1.0-impl \
+    android.hardware.bluetooth@1.0-service \
+    libbt-vendor \
+    libldacBT_dec \
+    liba2dpoffload \
+    libbthost_if
 
 # Camera
 PRODUCT_PACKAGES += \
