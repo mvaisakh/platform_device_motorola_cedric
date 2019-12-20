@@ -470,3 +470,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 	ro.config.media_vol_steps=25
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
+
+PRODUCT_PACKAGES += \
+    ThemePicker
