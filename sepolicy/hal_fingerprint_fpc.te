@@ -1,3 +1,5 @@
+type hal_fingerprint_fpc, domain;
+
 hwbinder_use(hal_fingerprint_fpc)
 vndbinder_use(hal_fingerprint_fpc)
 
