@@ -61,3 +61,5 @@ allow init vendor_file:file { execute_no_trans };
 
 allow init hal_usb_hwservice:hwservice_manager add;
 allow init hal_power_hwservice:hwservice_manager add;
+
+allow init fsg_file:dir mounton;
