@@ -1,3 +1,2 @@
 allow netd untrusted_app_25:unix_stream_socket { read write };
-allow netd device:file { write };
-
+allow netd device:file { write open };
