@@ -35,8 +35,8 @@ binder_call(cameraserver, hal_perf_default)
 binder_call(cameraserver, hal_configstore_default)
 
 ####
-allow cameraserver debug_prop:file { r_file_perms };
-allow cameraserver debug_prop:property_service set;
+dontaudit cameraserver debug_prop:file { r_file_perms };
+dontaudit cameraserver debug_prop:property_service set;
 
 #######
 allow cameraserver shell_exec:file { read open execute };
