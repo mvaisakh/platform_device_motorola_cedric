@@ -452,7 +452,7 @@ public class KeyHandler implements DeviceKeyHandler {
         return node;
     }
 
-    public KeyEvent handleKeyEvent(KeyEvent event) {
+    public boolean handleKeyEvent(KeyEvent event) {
         int scanCode = event.getScanCode();
 
         if (DEBUG) {
@@ -507,7 +507,23 @@ public class KeyHandler implements DeviceKeyHandler {
         } else if (isScreenOffGesturesScanCode) {
             handleScreenOffScancode(scanCode);
         }
-        return null;
+        return true;
+    }
+
+    public boolean isCameraLaunchEvent(KeyEvent event) {
+    	    return false;
+    }
+
+    public boolean isWakeEvent(KeyEvent event){
+            return false;
+    }
+
+    public boolean isDisabledKeyEvent(KeyEvent event) {
+            return false;
+    }
+
+    public Intent isActivityLaunchEvent(KeyEvent event) {
+            return null;
     }
 
     private void processFPScancode(int scanCode) {
