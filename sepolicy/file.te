@@ -8,7 +8,7 @@ type chargeonly_data_file, file_type, data_file_type, core_data_file_type;
 type debugfs_rpm, debugfs_type, fs_type;
 
 # FSG
-type fsg_file, file_type, contextmount_type;
+type fsg_file, file_type, fs_type, contextmount_type;
 
 # Modem
 type persist_modem_file, file_type, data_file_type;
