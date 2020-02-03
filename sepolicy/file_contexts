@@ -39,7 +39,7 @@
 /firmware(/.*)?          u:object_r:firmware_file:s0
 
 # FSG
-/fsg(/.*)?               u:object_r:fsg_file:s0
+/(vendor|system/vendor)/fsg               u:object_r:fsg_file:s0
 
 /sys/devices/soc/7af8000.spi/spi_master/spi8/spi8.0(/.*)? u:object_r:sysfs_fpc:s0
 /sys/devices/soc/soc:fpc_fpc1020(/.*)?		u:object_r:sysfs_fpc:s0
