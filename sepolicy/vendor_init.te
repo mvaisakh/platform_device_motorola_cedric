@@ -11,3 +11,18 @@ allow vendor_init dhcp_data_file:dir setattr;
 allow vendor_init radio_data_file:file r_file_perms;
 allow vendor_init wifi_data_file:dir setattr;
 allow vendor_init wpa_socket:dir setattr;
+
+allow vendor_init {
+	akmd_data_file
+	dbvc_data_file
+	wapi_supplicant
+	moodle_data_file
+	sds_data_file
+	fpc_data_file
+	fps_data_file
+	adspd_data_file
+}:dir { create search getattr open read setattr ioctl write add_name remove_name rmdir relabelfrom };
+
+allow vendor_init ipa_dev:file { create };
+
+allow vendor_init usermodehelper:file { write };
