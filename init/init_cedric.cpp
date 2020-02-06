@@ -87,6 +87,9 @@ void vendor_load_properties()
     std::string sku = android::base::GetProperty("ro.boot.hardware.sku", "");
     property_override_dual("ro.product.model", "ro.vendor.product.model", sku.c_str());
 
+    //,For SafetyNet
+    property_override("ro.build.fingerprint", "google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys");
+
     // rmt_storage
     std::string device = android::base::GetProperty("ro.boot.device", "");
     std::string radio = android::base::GetProperty("ro.boot.radio", "");
