@@ -254,7 +254,7 @@ TARGET_COPY_OUT_VENDOR := vendor
 BOARD_PROPERTY_OVERRIDES_SPLIT_ENABLED := true
 
 # VNDK
-PRODUCT_USE_VNDK_OVERRIDE := false
+BOARD_VNDK_VERSION := current
 
 # Use mke2fs to create ext4 images
 TARGET_USES_MKE2FS := true
