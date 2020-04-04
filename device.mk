@@ -267,8 +267,8 @@ PRODUCT_PACKAGES += \
     vendor.lineage.livedisplay@2.0-service-sysfs
 
 #PRODUCT_COPY_FILES += \
-#    $(LOCAL_PATH)/configs/qdcm_calib_data_mipi_mot_vid_inx_1080p_497.xml:system/vendor/etc/qdcm_calib_data_mipi_mot_vid_inx_1080p_497.xml \
-#    $(LOCAL_PATH)/configs/qdcm_calib_data_mipi_mot_vid_tianma_1080p_497.xml:system/vendor/etc/qdcm_calib_data_mipi_mot_vid_tianma_1080p_497.xml
+#    $(LOCAL_PATH)/configs/qdcm_calib_data_mipi_mot_vid_inx_1080p_497.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_mipi_mot_vid_inx_1080p_497.xml \
+#    $(LOCAL_PATH)/configs/qdcm_calib_data_mipi_mot_vid_tianma_1080p_497.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_mipi_mot_vid_tianma_1080p_497.xml
 
 # Media (OMX)
 PRODUCT_PACKAGES += \
