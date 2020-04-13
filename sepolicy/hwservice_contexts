@@ -3,3 +3,12 @@ com.fingerprints.extension::IFingerprintCalibration                             
 com.fingerprints.extension::IFingerprintEngineering                               u:object_r:fpc_extension_service:s0
 com.fingerprints.extension::IFingerprintNavigation                                u:object_r:fpc_extension_service:s0
 com.fingerprints.extension::IFingerprintSensorTest u:object_r:fpc_extension_service:s0
+vendor.lineage.livedisplay::IAdaptiveBacklight u:object_r:hal_lineage_livedisplay_hwservice:s0 
+vendor.lineage.livedisplay::IAutoContrast u:object_r:hal_lineage_livedisplay_hwservice:s0 
+vendor.lineage.livedisplay::IColorBalance u:object_r:hal_lineage_livedisplay_hwservice:s0 
+vendor.lineage.livedisplay::IColorEnhancement u:object_r:hal_lineage_livedisplay_hwservice:s0 
+vendor.lineage.livedisplay::IDisplayColorCalibration u:object_r:hal_lineage_livedisplay_hwservice:s0 
+vendor.lineage.livedisplay::IDisplayModes u:object_r:hal_lineage_livedisplay_hwservice:s0 
+vendor.lineage.livedisplay::IPictureAdjustment u:object_r:hal_lineage_livedisplay_hwservice:s0 
+vendor.lineage.livedisplay::IReadingEnhancement u:object_r:hal_lineage_livedisplay_hwservice:s0 
+vendor.lineage.livedisplay::ISunlightEnhancement u:object_r:hal_lineage_livedisplay_hwservice:s0
