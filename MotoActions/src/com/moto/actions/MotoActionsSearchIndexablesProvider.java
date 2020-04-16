@@ -49,6 +49,10 @@ public class MotoActionsSearchIndexablesProvider extends SearchIndexablesProvide
                     GestureSettingsActivity.class.getName(),
                     R.drawable.ic_settings_gestures)));
 
+	cursor.addRow(generateResourceRef(new SearchIndexableResource(1, R.xml.display_calibration_panel,
+                    GestureSettingsActivity.class.getName(),
+                    R.drawable.ic_display_calibration)));
+
         cursor.addRow(generateResourceRef(new SearchIndexableResource(1, R.xml.fp_gesture_panel,
                     FPGestureSettingsActivity.class.getName(),
                     R.drawable.ic_settings_fingerprint)));

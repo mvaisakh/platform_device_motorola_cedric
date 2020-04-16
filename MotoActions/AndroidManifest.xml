@@ -85,6 +85,12 @@
             android:theme="@style/MotoActions">
         </activity>
 
+	<activity
+            android:name=".DisplayCalibrationSettingsActivity"
+            android:theme="@style/MotoActions"
+            android:label="@string/advanced_settings_kcal">
+        </activity>
+
         <activity
             android:name=".FPGestureSettingsActivity"
             android:label="@string/fingerprint_gestures_title"

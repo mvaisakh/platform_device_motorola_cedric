@@ -58,4 +58,13 @@
                 android:targetClass="com.moto.actions.ScreenOffGestureSettingsActivity" />
     </Preference>
 
+    <Preference
+        android:key="display_calibration"
+        android:title="@string/display_calibration_title"
+        android:summary="@string/display_calibration_summary"
+        android:icon="@drawable/ic_display_calibration">
+            <intent
+                android:targetPackage="com.moto.actions"
+                android:targetClass="com.moto.actions.DisplayCalibrationSettingsActivity" />
+    </Preference>
 </PreferenceScreen>
