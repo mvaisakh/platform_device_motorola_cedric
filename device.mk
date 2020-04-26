@@ -105,12 +105,21 @@ PRODUCT_COPY_FILES += \
 
 # Bluetooth
 PRODUCT_PACKAGES += \
+    BluetoothExt \
     android.hardware.bluetooth@1.0-impl \
     android.hardware.bluetooth@1.0-service \
+    com.qualcomm.qti.bluetooth_audio@1.0 \
+    libbluetooth_qti \
+    bt_logger \
+    libbtconfigstore \
+    libbt-logClient \
     libbt-vendor \
     libldacBT_dec \
     liba2dpoffload \
-    libbthost_if
+    libbthost_if \
+    vendor.qti.hardware.btconfigstore@1.0 \
+    vendor.qti.hardware.bluetooth_audio@2.0 \
+    vendor.qti.hardware.bluetooth_dun-V1.0-java
 
 # Camera
 PRODUCT_PACKAGES += \

@@ -44,6 +44,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     qcom.bt.le_dev_pwr_class=1 \
     ro.cutoff_voltage_mv=3400 \
     ro.bluetooth.hfp.ver=1.7 \
+    ro.bluetooth.library_name=libbluetooth_qti.so \
     qcom.bluetooth.soc=smd \
     vendor.qcom.bluetooth.soc=smd \
     ro.qualcomm.bt.hci_transport=smd \
