@@ -6,7 +6,7 @@ type fsg_file, fs_type, contextmount_type;
 
 # Modem
 type persist_modem_file, file_type, data_file_type;
-
+type persist_audio_file, file_type, data_file_type;
 type persist_omadm_file, file_type, data_file_type;
 type sds_data_file, file_type, data_file_type, core_data_file_type;
 type pds_public_file, file_type, data_file_type;
