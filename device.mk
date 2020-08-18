@@ -379,9 +379,6 @@ PRODUCT_PACKAGES += \
     qti_telephony_utils.xml \
     telephony-ext
 
-PRODUCT_BOOT_JARS += \
-    telephony-ext
-
 PRODUCT_PROPERTY_OVERRIDES += ro.control_privapp_permissions=log
 
 # Sensors
