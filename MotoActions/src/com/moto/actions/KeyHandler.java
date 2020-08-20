@@ -148,8 +148,7 @@ public class KeyHandler implements DeviceKeyHandler {
         mGestureWakeLock = mPowerManager.newWakeLock(PowerManager.PARTIAL_WAKE_LOCK,
                 "GestureWakeLock");
 
-        mProximityTimeOut = mContext.getResources().getInteger(
-                com.android.internal.R.integer.config_proximityCheckTimeout);
+        mProximityTimeOut = 200;
 
         if (ProximityUtils.isProximityWakeSupported(mContext)) {
             mSensorManager = (SensorManager) context.getSystemService(Context.SENSOR_SERVICE);

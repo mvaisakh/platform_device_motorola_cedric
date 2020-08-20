@@ -23,7 +23,6 @@ import androidx.preference.Preference;
 import androidx.preference.SwitchPreference;
 import androidx.preference.PreferenceFragment;
 
-import static android.provider.Settings.Secure.DOUBLE_TAP_TO_WAKE;
 import static com.moto.actions.actions.Constants.KEY_GESTURE_ENABLE_HAPTIC_FEEDBACK;
 import static com.moto.actions.actions.Constants.KEY_GESTURE_ENABLE_PROXIMITY_SENSOR;
 
@@ -45,12 +44,10 @@ public class ScreenOffGestureSettingsFragment extends PreferenceFragment {
     public void onCreatePreferences(Bundle savedInstanceState, String rootKey) {
         addPreferencesFromResource(R.xml.screen_off_gesture_panel);
         mTapToWake = (SwitchPreference) findPreference("tap_to_wake");
-        mTapToWake.setChecked(Settings.Secure.getInt(getActivity().getContentResolver(), DOUBLE_TAP_TO_WAKE, 0) == 1);
         mTapToWake.setOnPreferenceChangeListener(new Preference.OnPreferenceChangeListener() {
             @Override
             public boolean onPreferenceChange(Preference preference, Object objValue) {
                 boolean value = (Boolean) objValue;
-                Settings.Secure.putInt(getActivity().getContentResolver(), DOUBLE_TAP_TO_WAKE, value ? 1 : 0);
                 return true;
             }
         });
